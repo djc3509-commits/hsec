@@ -1,0 +1,1490 @@
+﻿{
+  "assets": {
+    "title": "Tài sản",
+    "totalNav": "Tổng giá trị tài sản ròng (NAV)",
+    "profit_loss": "Lãi/Lỗ",
+    "assets_allocation": "Phân bổ Tài sản",
+    "available_cash": "Tiền mặt khả dụng"
+  },
+  "login": {
+    "title": "Đăng nhập",
+    "description": "Chào mừng bạn quay trở lại. Vui lòng đăng nhập.",
+    "email": "Email",
+    "email_placeholder": "Nhập email của bạn",
+    "password": "Mật khẩu",
+    "password_placeholder": "Nhập mật khẩu",
+    "remember": "Ghi nhớ đăng nhập",
+    "google": "Đăng nhập bằng Google",
+    "github": "Đăng nhập bằng GitHub",
+    "toast_google": "Bạn vừa bấm đăng nhập Google",
+    "toast_github": "Bạn vừa bấm đăng nhập GitHub",
+    "error_email": "Email không hợp lệ",
+    "error_password_required": "Mật khẩu là bắt buộc",
+    "error_password_min": "Mật khẩu tối thiểu 8 ký tự",
+    "error_invalid_credentials": "Email hoặc mật khẩu không đúng",
+    "error": "Lỗi",
+    "success": "Đăng nhập thành công",
+    "toast_success": "Bạn đã đăng nhập thành công",
+    "no_account": "Bạn chưa có tài khoản?",
+    "register_link": "Đăng ký"
+  },
+  "register": {
+    "title": "Đăng ký",
+    "username": "Tên đăng nhập",
+    "fullname": "Họ tên",
+    "email": "Email",
+    "description": "Tạo tài khoản mới.",
+    "identifier": "Số điện thoại hoặc Email",
+    "phone_or_email": "Số điện thoại hoặc Email",
+    "phone_or_email_placeholder": "Nhập số điện thoại hoặc email",
+    "password": "Mật khẩu",
+    "password_placeholder": "Nhập mật khẩu",
+    "confirm_password": "Xác nhận Mật khẩu",
+    "confirm_password_placeholder": "Nhập lại mật khẩu",
+    "terms": "Tôi đồng ý với Điều khoản và Điều kiện",
+    "google": "Đăng ký bằng Google",
+    "github": "Đăng ký bằng GitHub",
+    "facebook": "Đăng ký bằng Facebook",
+    "toast_facebook": "Bạn vừa bấm đăng ký Facebook",
+    "toast_google": "Bạn vừa bấm đăng ký Google",
+    "toast_github": "Bạn vừa bấm đăng ký GitHub",
+    "error": "Lỗi",
+    "error_identifier_required": "Số điện thoại hoặc email là bắt buộc",
+    "error_password_required": "Mật khẩu là bắt buộc",
+    "error_password_min": "Mật khẩu tối thiểu 8 ký tự",
+    "error_confirm_password_min": "Mật khẩu xác nhận tối thiểu 8 ký tự",
+    "error_confirm_password": "Mật khẩu không khớp",
+    "error_terms": "Bạn phải đồng ý với Điều khoản và Điều kiện",
+    "error_terms_required": "Bạn phải đồng ý với Điều khoản và Điều kiện",
+    "username_placeholder": "Nhập tên đăng nhập",
+    "fullname_placeholder": "Nhập họ tên",
+    "email_placeholder": "Nhập email",
+    "error_name_min": "Tên đăng nhập tối thiểu 3 ký tự",
+    "error_name_max": "Tên đăng nhập tối đa 20 ký tự",
+    "error_fullname_min": "Họ tên tối thiểu 2 ký tự",
+    "error_email_invalid": "Email không hợp lệ",
+    "error_email": "Email không hợp lệ",
+    "error_username_min": "Tên đăng nhập tối thiểu 3 ký tự",
+    "error_username_max": "Tên đăng nhập tối đa 20 ký tự",
+    "error_password_mismatch": "Mật khẩu không khớp",
+    "success": "Đăng ký thành công",
+    "toast_success": "Bạn đã đăng ký thành công",
+    "error_registration_failed": "Đăng ký thất bại. Vui lòng thử lại.",
+    "already_have_account": "Bạn đã có tài khoản?",
+    "login_link": "Đăng nhập"
+  },
+  "common": {
+    "action": {
+      "sign_out": "Đăng xuất"
+    },
+    "menu": {
+      "profile": "Hồ sơ",
+      "billing": "Thanh toán",
+      "settings": "Cài đặt"
+    }
+  },
+  "user_menu": {
+    "theme": "Giao diện",
+    "primary": "Màu chính",
+    "neutral": "Màu nền",
+    "appearance": "Chế độ hiển thị",
+    "light": "Sáng",
+    "dark": "Tối",
+    "language": "Ngôn ngữ"
+  },
+  "landing": {
+    "title": "Chào mừng đến với kỷ nguyên tài chính Web3 và BlockChain",
+    "description": "Giao dịch tiền mã hóa siêu tốc, an toàn và bảo mật. Nền tảng giao dịch số 1 để tối ưu hóa tài sản kỹ thuật số của bạn.",
+    "header": {
+      "title": "HSEC",
+      "market": "Thị trường",
+      "pro_tools": "Công cụ Pro",
+      "start": "Bắt đầu",
+      "login": "Đăng nhập",
+      "register": "Đăng ký",
+      "dashboard": "Vào Dashboard"
+    },
+    "hero": {
+      "badge": "Dự án mô phỏng giao dịch crypto",
+      "title_primary": "Học crypto qua",
+      "title_highlight": "trải nghiệm thực tế",
+      "trade_now": "Thử ngay",
+      "register": "Đăng ký"
+    },
+    "logos": {
+      "title": "Công nghệ sử dụng"
+    },
+    "metrics": {
+      "headline": "Tổng quan",
+      "title": "Sandbox crypto cho người mới",
+      "description": "Một sân chơi mô phỏng để làm quen với khớp lệnh, ví, biểu đồ — không cần tiền thật.",
+      "items": {
+        "0": {
+          "value": "100%",
+          "label": "Mô phỏng, không tiền thật"
+        },
+        "1": {
+          "value": "100+",
+          "label": "Coin từ top thị trường"
+        },
+        "2": {
+          "value": "30s",
+          "label": "Đồng bộ giá từ Binance"
+        },
+        "3": {
+          "value": "10K",
+          "label": "USDT ảo khởi tạo"
+        }
+      }
+    },
+    "section": {
+      "title": "Tập làm quen với thị trường crypto",
+      "description": "Đặt lệnh BUY/SELL, theo dõi sổ lệnh, quản lý ví — học cách thị trường vận hành mà không sợ mất tiền.",
+      "items": {
+        "0": {
+          "title": "Khớp lệnh LIMIT / MARKET",
+          "desc": "Sổ lệnh thật, matching engine viết tay. Đặt lệnh giới hạn, lệnh thị trường và xem quá trình khớp diễn ra."
+        },
+        "1": {
+          "title": "Giá real-time từ Binance",
+          "desc": "Hệ thống đồng bộ giá từ Binance mỗi 30 giây, kết hợp WebSocket overlay cho live ticker. Dữ liệu sát với thị trường thực."
+        },
+        "2": {
+          "title": "Trợ lý AI tư vấn cơ bản",
+          "desc": "Chat với AI để hỏi về khái niệm crypto, cách dùng sàn, ý nghĩa các chỉ số. Hữu ích cho người mới tìm hiểu."
+        }
+      }
+    },
+    "features": {
+      "title": "Tính năng đang có",
+      "description": "Đây là dự án cá nhân — danh sách dưới đây là những gì đã build và đang chạy được.",
+      "items": {
+        "0": {
+          "title": "Sổ lệnh & Order Book",
+          "desc": "Hiển thị 20 mức giá BUY/SELL gần spread, cập nhật mỗi 1.5s. Click vào giá để fill nhanh vào form."
+        },
+        "1": {
+          "title": "Biểu đồ Candlestick",
+          "desc": "Tích hợp Lightweight Charts với nhiều khung thời gian (1m-1M). Dữ liệu kline pull từ Binance public API."
+        },
+        "2": {
+          "title": "Ví & Portfolio",
+          "desc": "Theo dõi số dư USDT, holdings từng coin, P&L theo period (daily/weekly/monthly). Biểu đồ phân bổ danh mục."
+        },
+        "3": {
+          "title": "Cộng đồng & Tin tức",
+          "desc": "Đăng bài chia sẻ phân tích, tag $coin, like/comment. Có feed tin crypto và bộ lọc trending."
+        },
+        "4": {
+          "title": "AI Chat Streaming",
+          "desc": "Tích hợp Groq (Llama 3.3) với streaming response. Có thể chat về thị trường, hỏi cách sử dụng app."
+        },
+        "5": {
+          "title": "Dashboard Phân tích",
+          "desc": "Tổng tài sản, biến động P&L, dòng tiền giao dịch, tâm lý thị trường. Lọc theo khoảng thời gian tuỳ chọn."
+        }
+      }
+    },
+    "steps": {
+      "title": "Bắt đầu chỉ với 3 bước",
+      "description": "Không cần KYC, không cần nạp tiền thật. Tạo tài khoản và thử nghiệm ngay.",
+      "items": {
+        "0": {
+          "title": "1. Đăng ký tài khoản",
+          "desc": "Email + mật khẩu, không cần xác minh phức tạp. Hoàn tất trong 30 giây."
+        },
+        "1": {
+          "title": "2. Nhận 10,000 USDT ảo",
+          "desc": "Tài khoản mới tự động được tặng 10K USDT ảo để thử nghiệm. Hết thì nạp thêm trong settings."
+        },
+        "2": {
+          "title": "3. Đặt lệnh đầu tiên",
+          "desc": "Vào trang Orders, chọn coin, đặt lệnh BUY/SELL. Xem cách matching engine xử lý lệnh của bạn."
+        }
+      }
+    },
+    "pricing": {
+      "title": "Hoàn toàn miễn phí",
+      "description": "Đây là dự án học tập / portfolio cá nhân — không thu phí, không quảng cáo, không có gói VIP.",
+      "plans": {
+        "standard": {
+          "title": "Tài khoản Sandbox",
+          "desc": "Một loại duy nhất — dành cho mọi người muốn thử nghiệm",
+          "price": "Miễn phí",
+          "features": [
+            "10,000 USDT ảo khởi tạo",
+            "Tất cả tính năng không giới hạn",
+            "Sổ lệnh, biểu đồ, AI chat",
+            "Cộng đồng & tin tức"
+          ],
+          "btn": "Đăng ký miễn phí"
+        },
+        "vip": {
+          "title": "Roadmap tương lai",
+          "desc": "Những thứ có thể sẽ thêm sau (chưa cam kết)",
+          "price": "TBD",
+          "features": [
+            "Backtest chiến lược",
+            "Paper trading nâng cao",
+            "Tích hợp nhiều exchange",
+            "Bot giao dịch demo",
+            "Social trading mô phỏng",
+            "Mở mã nguồn"
+          ],
+          "btn": "Theo dõi cập nhật"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Mục tiêu của dự án",
+      "description": "HSEC được build như một bài tập lớn để học fullstack Nuxt 4 + TiDB + AI. Đây là phản hồi giả lập từ góc nhìn nhà phát triển.",
+      "items": {
+        "0": {
+          "quote": "Mình dùng để học cách matching engine hoạt động — viết SQL transaction, lock row, race condition. Hiểu sâu hơn rất nhiều so với chỉ đọc lý thuyết.",
+          "role": "Backend dev đang học"
+        },
+        "1": {
+          "quote": "Giao diện gọn gàng, có dark mode, đặt lệnh mượt. Dùng làm demo trong portfolio để show kỹ năng Nuxt UI + ApexCharts.",
+          "role": "Frontend dev"
+        },
+        "2": {
+          "quote": "Phần AI chat streaming với Groq là cái mình thích nhất. Latency thấp, có UI message stream protocol đúng chuẩn.",
+          "role": "Người tìm hiểu AI"
+        }
+      }
+    },
+    "cta": {
+      "title": "Thử nghiệm và học hỏi",
+      "description": "Tạo tài khoản miễn phí, nhận 10,000 USDT ảo và bắt đầu khám phá. Không có phần thưởng nào ngoài kiến thức.",
+      "btn1": "Bắt đầu miễn phí",
+      "btn2": "Xem mã nguồn (Github)"
+    },
+    "footer": {
+      "about": "Về HSEC",
+      "about_links": [
+        "Giới thiệu HSEC",
+        "Báo cáo dự trữ (PoR)",
+        "Tuyển dụng",
+        "Chính sách bảo mật"
+      ],
+      "trade": "Giao dịch",
+      "trade_links": [
+        "Giao dịch Spot",
+        "Hợp đồng Futures (USDT-M)",
+        "Copy Trading",
+        "HSEC Earn (Staking)"
+      ],
+      "support": "Hỗ trợ",
+      "support_links": [
+        "Giao dịch P2P VNĐ",
+        "Biểu phí giao dịch",
+        "Trung tâm hỗ trợ",
+        "Gửi yêu cầu (Ticket)"
+      ]
+    },
+    "form": {
+      "label": "Đăng ký nhận bản tin thị trường hàng tuần",
+      "placeholder": "Nhập email của bạn",
+      "btn": "Đăng ký"
+    }
+  },
+  "pagination": {
+    "items_per_page": "{count} mục mỗi trang"
+  },
+  "wallets": {
+    "title": "Ví",
+    "hero": {
+      "total_assets": "Tổng tài sản",
+      "unrealized": "chưa thực hiện",
+      "deposit": "Nạp",
+      "withdraw": "Rút",
+      "transfer": "Chuyển",
+      "total_cost": "Tổng vốn gốc",
+      "total_cost_hint": "Đã bỏ vào",
+      "market_value": "Giá trị TT",
+      "market_value_hint": "Giá hiện tại",
+      "pnl": "Lãi / Lỗ",
+      "pnl_unrealized_hint": "chưa TH",
+      "coin": "Coin",
+      "coin_count": "{count} coin",
+      "available": "Dư",
+      "available_hint": "Khả dụng"
+    },
+    "sparkline": {
+      "title": "P&L 7 ngày qua",
+      "source": "P&L đã thực hiện · từ lịch sử lệnh",
+      "empty": "Chưa có giao dịch trong 7 ngày qua"
+    },
+    "allocation": "Phân bổ danh mục",
+    "info": {
+      "unrealized": "Lãi/Lỗ chưa thực hiện",
+      "cumulative": "P&L tích lũy",
+      "text_unrealized": "(trang này) — tính trên holdings đang giữ: giá thị trường hiện tại so với giá vốn trung bình.",
+      "text_cumulative": "(dashboard) — cộng dồn toàn bộ lãi/lỗ từ các lệnh đã khớp, bao gồm cả những lệnh lỗ đã bán trước đây. Hai con số khác nhau là bình thường."
+    },
+    "asset_tabs": {
+      "by_coin": "Theo coin",
+      "by_wallet": "Theo ví"
+    },
+    "asset_list_title": "Danh sách Tài sản",
+    "search_placeholder": "Tìm coin...",
+    "hide_dust": "Ẩn <$1",
+    "donut": {
+      "title": "Cấu trúc danh mục",
+      "total_nav": "Tổng NAV",
+      "total_value": "Tổng giá trị"
+    },
+    "transactions": {
+      "title": "Giao dịch gần đây",
+      "view_all": "Xem tất cả",
+      "status": {
+        "completed": "Hoàn tất",
+        "pending": "Đang xử lý"
+      },
+      "type": {
+        "buy": "Mua",
+        "sell": "Bán",
+        "deposit": "Nạp",
+        "withdraw": "Rút"
+      }
+    },
+    "columns": {
+      "asset": "Tài sản",
+      "amount": "Khối lượng",
+      "cost": "Giá vốn / Tổng vốn",
+      "cost_hint": "Vốn",
+      "current_price": "Giá thị trường",
+      "current_value": "Tổng tiền hiện tại",
+      "pnl": "Lãi / Lỗ (PNL)",
+      "actions": "Thao tác",
+      "buy": "Mua",
+      "sell": "Bán"
+    },
+    "empty": "Chưa có coin nào trong ví",
+    "recharge": {
+      "heading_1": "Nạp tiền",
+      "heading_2": "An toàn & Bảo mật.",
+      "subtitle": "Nạp tài sản vào ví HSEC chỉ trong 3 bước. Tất cả giao dịch được bảo hiểm bởi hệ thống ký quỹ.",
+      "market_trend": "Xu hướng thị trường",
+      "security_notice": "HSEC cam kết bảo mật 100% tài sản nạp. Mọi sự cố kỹ thuật sẽ được xử lý trong vòng 30 phút.",
+      "config_title": "Cấu hình khoản nạp",
+      "config_subtitle": "Giao dịch tự động P2P",
+      "current_balance": "Số dư hiện tại",
+      "you_pay": "Bạn chi trả",
+      "limit": "Hạn mức: 150,000 - 560,000,000 ₫",
+      "you_receive": "Bạn sẽ nhận được",
+      "good_rate": "Tỷ giá tốt",
+      "payment_method": "Phương thức nạp",
+      "confirm": "Xác nhận nạp tiền",
+      "support_247": "Support 24/7",
+      "quick": {
+        "500k": "500K",
+        "1m": "1 triệu",
+        "2_5m": "2.5tr",
+        "5m": "5 triệu"
+      },
+      "methods": {
+        "bank_name": "Chuyển khoản (Auto)",
+        "bank_desc": "Xử lý trong 1-3 phút"
+      }
+    },
+    "deposit": {
+      "title": "Nạp tiền vào ví",
+      "subtitle": "Chọn cách thức nạp muốn bắt đầu",
+      "secure_title": "An toàn & Bảo mật",
+      "secure_desc": "Mọi giao dịch nạp tiền tại HSEC đều được mã hóa đầu cuối và kiểm soát bởi hệ thống AI 24/7.",
+      "support_center": "Trung tâm hỗ trợ",
+      "groups": {
+        "fiat": "Pháp định (Fiat)",
+        "digital": "Tài sản số"
+      },
+      "methods": {
+        "bank_title": "Chuyển khoản Ngân hàng",
+        "bank_desc": "Nạp VND nhanh qua QR Code hoặc số tài khoản.",
+        "bank_badge": "Nhanh nhất",
+        "p2p_title": "Giao dịch P2P",
+        "p2p_desc": "Mua Crypto trực tiếp từ người bán uy tín.",
+        "p2p_badge": "Tỉ giá tốt",
+        "onchain_title": "Nạp On-chain",
+        "onchain_desc": "Nạp qua mạng lưới BTC, ETH, BSC, SOL...",
+        "onchain_badge": "Bảo mật"
+      },
+      "currencies": {
+        "VND": "Đồng Việt Nam",
+        "AMD": "Dram Armenia",
+        "AUD": "Đô la Úc",
+        "BYN": "Rúp Belarus",
+        "GEL": "Lari Georgia",
+        "IDR": "Rupiah Indonesia"
+      }
+    },
+    "list": {
+      "unrealized_pnl": "Lãi/Lỗ chưa thực hiện",
+      "net": "ròng",
+      "compare_hint": "So với giá vốn · Xanh = đang lãi · Đỏ = đang lỗ",
+      "empty": "Chưa có coin nào trong ví",
+      "tooltip_profit": "Đang lãi +",
+      "tooltip_loss": "Đang lỗ -"
+    },
+    "toast": {
+      "deposit_success": "Nạp thành công {amount} USDT!",
+      "deposit_failed": "Nạp thất bại, thử lại",
+      "load_error": "Lỗi tải ví"
+    }
+  },
+  "markets": {
+    "title": "Thị trường Crypto",
+    "subtitle": "Cập nhật theo thời gian thực",
+    "live": "Đang cập nhật Live",
+    "stats": {
+      "market_cap": "Vốn hóa TT",
+      "volume_24h": "Volume 24h",
+      "btc_dominance": "BTC Dominance"
+    },
+    "trade_button": "Giao dịch ngay",
+    "tabs": {
+      "watchlist": "Yêu thích",
+      "crypto": "Tiền mã hóa",
+      "spot": "Giao ngay",
+      "futures": "Hợp đồng Tương lai",
+      "alpha": "Alpha",
+      "new": "Mới niêm yết",
+      "zone": "Khu vực"
+    },
+    "new_badge": "Mới",
+    "view_more": "Xem thêm",
+    "cards": {
+      "popular": "Phổ biến",
+      "top_gainers": "Top tăng giá",
+      "top_losers": "Top giảm giá",
+      "top_volume": "Volume lớn nhất"
+    },
+    "filters": {
+      "all": "Tất cả",
+      "gainers": "Tăng nhiều nhất",
+      "losers": "Giảm nhiều nhất"
+    },
+    "search_placeholder": "Tìm kiếm token...",
+    "token_count": "{count} token",
+    "columns": {
+      "rank": "#",
+      "name": "Tên",
+      "price": "Giá",
+      "change_percent_24h": "24h %",
+      "change_24h": "Đổi giá",
+      "high_24h": "Cao 24h",
+      "low_24h": "Thấp 24h",
+      "volume_usdt": "Volume (USDT)",
+      "volume_coin": "KL (Coin)",
+      "market_cap": "Vốn hóa",
+      "actions": "Hành động"
+    },
+    "actions": {
+      "buy": "Mua",
+      "sell": "Bán"
+    },
+    "empty": "Không tìm thấy coin nào"
+  },
+  "layout": {
+    "sidebar": {
+      "home": "Trang chủ",
+      "markets": "Thị trường",
+      "assets": "Tài sản",
+      "orders": "Sổ lệnh",
+      "community": "Cộng đồng",
+      "news": "Tin tức",
+      "analyst": "AI Analyst",
+      "settings": "Cài đặt",
+      "profile": "Hồ sơ",
+      "members": "Thành viên",
+      "notifications": "Thông báo",
+      "security": "Bảo mật"
+    },
+    "ai": {
+      "assistant": "Trợ lý AI",
+      "new_chat": "Cuộc hội thoại mới",
+      "fullscreen": "Toàn màn hình",
+      "chat_ai": "Chat AI"
+    },
+    "footer": {
+      "description": "Nền tảng giao dịch tiền mã hóa uy tín, an toàn và minh bạch — được xây dựng dành riêng cho nhà đầu tư Việt Nam.",
+      "newsletter_title": "Đăng ký nhận bản tin thị trường hàng tuần",
+      "email_placeholder": "Nhập email của bạn",
+      "subscribe_btn": "Đăng ký",
+      "toast_title": "Đã đăng ký",
+      "toast_desc": "Bạn đã đăng ký nhận bản tin thị trường thành công.",
+      "built_with": "Được xây dựng bởi",
+      "terms": "Điều khoản",
+      "privacy": "Bảo mật",
+      "cookie": "Cookie",
+      "about": "Về HSEC",
+      "about_links": [
+        "Giới thiệu HSEC",
+        "Báo cáo dự trữ (PoR)",
+        "Tuyển dụng",
+        "Chính sách bảo mật"
+      ],
+      "trade": "Giao dịch",
+      "trade_links": [
+        "Giao dịch Spot",
+        "Hợp đồng Futures (USDT-M)",
+        "Copy Trading",
+        "HSEC Earn (Staking)"
+      ],
+      "support": "Hỗ trợ",
+      "support_links": [
+        "Giao dịch P2P VNĐ",
+        "Biểu phí giao dịch",
+        "Trung tâm hỗ trợ",
+        "Gửi yêu cầu (Ticket)"
+      ]
+    }
+  },
+  "profile": {
+    "title": "Hồ sơ cá nhân",
+    "personal_info": "Thông tin cá nhân",
+    "account_details": "Chi tiết tài khoản",
+    "fullname": "Họ và tên",
+    "fullname_placeholder": "Nhập họ và tên đầy đủ",
+    "email": "Email",
+    "username": "Tên đăng nhập",
+    "user_id": "ID người dùng",
+    "member_since": "Tham gia từ",
+    "last_updated": "Cập nhật lần cuối",
+    "role": "Vai trò",
+    "status_active": "Đang hoạt động",
+    "status_inactive": "Tạm ngừng",
+    "expert": "Chuyên gia",
+    "save": "Lưu thay đổi",
+    "toast_saved": "Đã lưu thông tin",
+    "toast_save_error": "Lỗi lưu thông tin",
+    "toast_avatar_updated": "Đã cập nhật ảnh đại diện",
+    "toast_avatar_too_large": "Ảnh tối đa 5MB",
+    "toast_avatar_error": "Upload ảnh thất bại",
+    "error_fullname_min": "Họ tên tối thiểu 2 ký tự",
+    "error_fullname_max": "Họ tên tối đa 100 ký tự",
+    "security_title": "Bảo mật & Quyền riêng tư",
+    "change_password": "Đổi mật khẩu",
+    "change_password_hint": "Cập nhật mật khẩu định kỳ để bảo vệ tài khoản",
+    "two_factor": "Xác thực 2 yếu tố",
+    "two_factor_hint": "Tăng cường bảo mật bằng OTP",
+    "notifications": "Thông báo",
+    "notifications_hint": "Tuỳ chỉnh kênh & sự kiện nhận thông báo",
+    "coming_soon": "Sắp ra mắt",
+    "activity_title": "Tổng quan hoạt động",
+    "stat_status": "Trạng thái",
+    "stat_status_hint": "Tài khoản đang sử dụng",
+    "stat_role": "Vai trò",
+    "stat_role_hint": "Phân quyền hệ thống",
+    "stat_expert": "Chuyên gia",
+    "stat_expert_hint": "Huy hiệu chuyên gia cộng đồng",
+    "expert_yes": "Đã xác nhận",
+    "expert_no": "Chưa có",
+    "stat_account_age": "Tuổi tài khoản",
+    "stat_account_age_hint": "Tính từ ngày đăng ký",
+    "days": "ngày"
+  },
+  "analyst": {
+    "glossary": {
+      "winRate": {
+        "name": "Tỷ lệ thắng",
+        "desc": "Phần trăm đề xuất đã đóng có lãi (chạm Take Profit) trên tổng số đề xuất đã đóng."
+      },
+      "pnl": {
+        "name": "Lãi / Lỗ",
+        "desc": "Tổng tiền lãi (dương) hoặc lỗ (âm) cộng dồn từ các đề xuất đã đóng."
+      },
+      "bestTrade": {
+        "name": "Lệnh lời nhất",
+        "desc": "Đề xuất đạt mức lãi cao nhất trong toàn bộ lịch sử."
+      },
+      "open": {
+        "name": "Đang chạy",
+        "desc": "Số đề xuất chưa đóng, đang chờ giá chạm TP/SL."
+      },
+      "equity": {
+        "name": "Đường cong vốn",
+        "desc": "Mô phỏng vốn thay đổi theo thời gian nếu bạn đi theo mọi đề xuất của AI."
+      },
+      "horizon": {
+        "name": "Khung thời gian",
+        "desc": "Thời gian dự kiến giữ lệnh: Scalp (vài giờ) · Day (1-3 ngày) · Swing (1-2 tuần) · Position (1-3 tháng)."
+      },
+      "direction": {
+        "name": "Hướng lệnh",
+        "desc": "Hướng kỳ vọng của giá: LONG = cược giá tăng, SHORT = cược giá giảm."
+      },
+      "confidence": {
+        "name": "Độ tin cậy",
+        "desc": "Xác suất AI ước tính cho hướng dự đoán (khoảng 50-85%). Không bao giờ chắc chắn tuyệt đối."
+      },
+      "entry": {
+        "name": "Giá vào lệnh",
+        "desc": "Mức giá AI đề xuất mở vị thế."
+      },
+      "exit": {
+        "name": "Giá đóng lệnh",
+        "desc": "Mức giá thực tế đã đóng vị thế (khi chạm TP/SL hoặc đóng thủ công). Dấu \"—\" nghĩa là chưa đóng."
+      },
+      "stopLoss": {
+        "name": "Cắt lỗ",
+        "desc": "Mức giá đóng lệnh để giới hạn khoản lỗ nếu giá đi ngược dự đoán."
+      },
+      "takeProfit": {
+        "name": "Chốt lời",
+        "desc": "Mức giá đóng lệnh để hiện thực hóa lợi nhuận khi giá đi đúng dự đoán."
+      },
+      "positionSize": {
+        "name": "Khối lượng vị thế",
+        "desc": "Số lượng coin của vị thế (đã nhân đòn bẩy)."
+      },
+      "leverage": {
+        "name": "Đòn bẩy",
+        "desc": "Hệ số khuếch đại vị thế. x1 = không đòn bẩy (spot); x10 = vị thế gấp 10 lần vốn, lời/lỗ đều nhân 10."
+      },
+      "notional": {
+        "name": "Giá trị vị thế",
+        "desc": "Tổng giá trị vị thế = vốn × đòn bẩy."
+      },
+      "liquidation": {
+        "name": "Giá thanh lý",
+        "desc": "Mức giá mà vị thế đòn bẩy bị đóng cưỡng bức (cháy tài khoản). Cần đặt SL trước mức này."
+      },
+      "riskReward": {
+        "name": "Rủi ro / Lợi nhuận",
+        "desc": "Tỷ lệ giữa khoản lỗ tối đa (tới SL) và khoản lãi kỳ vọng (tới TP)."
+      },
+      "long": {
+        "name": "Mua / cược giá tăng",
+        "desc": "Vị thế kỳ vọng giá TĂNG — lời khi giá lên, lỗ khi giá xuống."
+      },
+      "short": {
+        "name": "Bán khống / cược giá giảm",
+        "desc": "Vị thế kỳ vọng giá GIẢM — lời khi giá xuống, lỗ khi giá lên."
+      },
+      "scalp": {
+        "name": "Lướt siêu ngắn",
+        "desc": "Giữ lệnh vài giờ, ăn biến động nhỏ. SL ~1.5%, TP ~2.5%."
+      },
+      "day": {
+        "name": "Giao dịch trong ngày",
+        "desc": "Giữ lệnh 1-3 ngày. SL ~3%, TP ~5%."
+      },
+      "swing": {
+        "name": "Giao dịch lướt sóng",
+        "desc": "Giữ lệnh 1-2 tuần theo sóng giá. SL ~5%, TP ~10%."
+      },
+      "position": {
+        "name": "Đầu tư vị thế dài",
+        "desc": "Giữ lệnh 1-3 tháng theo xu hướng lớn. SL ~10%, TP ~30%."
+      },
+      "HIT_TP": {
+        "name": "Chốt lời",
+        "desc": "Giá đã chạm mục tiêu chốt lời (TP) → đề xuất thắng."
+      },
+      "HIT_SL": {
+        "name": "Cắt lỗ",
+        "desc": "Giá đã chạm ngưỡng cắt lỗ (SL) → đề xuất thua."
+      },
+      "EXPIRED": {
+        "name": "Hết hạn",
+        "desc": "Hết khung thời gian dự kiến mà chưa chạm TP/SL → đóng theo giá hiện tại."
+      }
+    },
+    "labels": {
+      "horizon": {
+        "scalp": "Scalp",
+        "day": "Day Trade",
+        "swing": "Swing",
+        "position": "Position"
+      },
+      "risk": {
+        "low": "Thận trọng",
+        "mid": "Cân bằng",
+        "high": "Mạo hiểm",
+        "degen": "Liều cao"
+      },
+      "experience": {
+        "beginner": "Mới",
+        "intermediate": "Trung cấp",
+        "pro": "Pro"
+      },
+      "goal": {
+        "learn": "Học hỏi",
+        "profit": "Lướt sóng ngắn hạn",
+        "invest": "Đầu tư dài hạn",
+        "preserve": "Bảo toàn vốn"
+      },
+      "style": {
+        "momentum": "Momentum",
+        "reversal": "Đảo chiều",
+        "trend": "Theo xu hướng",
+        "dca": "DCA"
+      },
+      "reportDepth": {
+        "short": "Ngắn gọn",
+        "medium": "Vừa",
+        "long": "Chi tiết"
+      },
+      "tone": {
+        "professional": "Chuyên nghiệp",
+        "friendly": "Thân thiện",
+        "strict": "Nghiêm khắc"
+      },
+      "stopLossKind": {
+        "hard": "Cứng",
+        "trailing": "Trailing",
+        "mental": "Mental"
+      },
+      "marketBias": {
+        "bull": "Tăng",
+        "bear": "Giảm",
+        "crab": "Đi ngang",
+        "unsure": "Chưa rõ"
+      },
+      "entryStrategy": {
+        "market": "Market",
+        "limit": "Limit",
+        "scale": "Scale-in",
+        "breakout": "Breakout"
+      }
+    },
+    "status": {
+      "OPEN": "ĐANG CHẠY",
+      "HIT_TP": "CHỐT LỜI",
+      "HIT_SL": "CẮT LỖ",
+      "EXPIRED": "HẾT HẠN"
+    },
+    "history": {
+      "title": "Hiệu suất AI",
+      "subtitle": "Track record các đề xuất AI",
+      "headline": "Hiệu suất AI của bạn",
+      "headlineSub": "Track record qua {total} đề xuất · Tự động update khi giá chạm TP/SL",
+      "col": {
+        "date": "Ngày",
+        "coin": "Coin",
+        "horizon": "Khung",
+        "direction": "Hướng",
+        "conf": "Conf",
+        "entry": "Vào",
+        "exit": "Ra",
+        "status": "Trạng thái",
+        "pnl": "PnL",
+        "actions": "Hành động"
+      },
+      "viewDetail": "Xem chi tiết phân tích {sym}",
+      "close": "Đóng",
+      "closeAria": "Đóng lệnh #{id}",
+      "deleteAria": "Xóa đề xuất #{id}",
+      "delete": "Xóa",
+      "deleteAll": "Xóa tất cả",
+      "cancel": "Hủy",
+      "delOne": {
+        "title": "Xóa đề xuất",
+        "msg": "Xóa đề xuất #{id} khỏi lịch sử? Hành động này không thể hoàn tác."
+      },
+      "delAll": {
+        "title": "Xóa toàn bộ lịch sử",
+        "msg": "Xóa tất cả {count} đề xuất? Hành động này không thể hoàn tác."
+      },
+      "closeConfirm": {
+        "title": "Đóng lệnh tại giá hiện tại",
+        "msg": "Đóng đề xuất #{id} ngay bây giờ? PnL sẽ được tính theo giá hiện tại và ghi vào thống kê (Win Rate / Tổng PnL)."
+      },
+      "toast": {
+        "deletedOne": "Đã xóa đề xuất",
+        "deletedAll": "Đã xóa toàn bộ lịch sử",
+        "removedDesc": "{count} đề xuất đã được gỡ khỏi track record"
+      },
+      "profit": "Lãi",
+      "loss": "Lỗ",
+      "error": "Lỗi",
+      "actionFailed": "Thao tác thất bại",
+      "closeToast": {
+        "title": "Đóng lệnh #{id} · {sym} — {result} {amount}",
+        "desc": "Vào {entry} → Ra {exit} · {outcome}"
+      },
+      "empty": {
+        "title": "Chưa có đề xuất nào",
+        "desc": "Hãy tạo phân tích AI đầu tiên để bắt đầu track record",
+        "cta": "Tạo phân tích đầu tiên"
+      },
+      "stat": {
+        "winRate": "Win Rate",
+        "winLoss": "{wins} thắng / {losses} thua",
+        "totalPnl": "Tổng PnL",
+        "onCapital": "{pct}% trên vốn ${capital}",
+        "bestTrade": "Best Trade",
+        "bestTradeSub": "đề xuất thắng đậm nhất",
+        "open": "Đang chạy",
+        "openSub": "đề xuất chưa đóng"
+      },
+      "equity": {
+        "title": "Đường cong vốn nếu theo AI",
+        "sub": "Vốn ban đầu ${start} → hiện tại ${now}",
+        "badge": "{pct}% qua {total} đề xuất"
+      },
+      "tableTitle": "Lịch sử đề xuất AI",
+      "count": "{total} đề xuất",
+      "loadFailed": "Không tải được lịch sử"
+    },
+    "modal": {
+      "title": "Chi tiết phân tích",
+      "loadError": "Không tải được chi tiết",
+      "noData": "Không có dữ liệu",
+      "newAnalysis": "Phân tích mới",
+      "close": "Đóng",
+      "spot": "— (spot)",
+      "ov": {
+        "direction": "Hướng",
+        "confidence": "Độ tin cậy",
+        "status": "Trạng thái",
+        "capital": "Vốn vào",
+        "leverage": "Đòn bẩy",
+        "pnl": "PnL"
+      },
+      "sec": {
+        "plan": "Kế hoạch lệnh",
+        "ai": "Phân tích của AI",
+        "reasons": "Lý do chính",
+        "keyPoints": "Điểm cần nhớ",
+        "config": "Cấu hình phân tích",
+        "tech": "Kỹ thuật"
+      },
+      "field": {
+        "entry": "Giá vào",
+        "stopLoss": "Cắt lỗ (SL)",
+        "takeProfit": "Chốt lời (TP)",
+        "size": "Khối lượng",
+        "exit": "Giá ra",
+        "liquidation": "Giá thanh lý",
+        "riskReward": "Risk / Reward"
+      },
+      "cfg": {
+        "horizon": "Khung thời gian",
+        "risk": "Khẩu vị rủi ro",
+        "experience": "Kinh nghiệm",
+        "goal": "Mục tiêu",
+        "style": "Phong cách",
+        "reportDepth": "Độ sâu báo cáo",
+        "tone": "Tone báo cáo",
+        "stopLossKind": "Loại cắt lỗ",
+        "marketBias": "Bias thị trường",
+        "entryStrategy": "Chiến lược vào",
+        "maxRisk": "Risk tối đa",
+        "profitTarget": "Mục tiêu LN"
+      },
+      "tech": {
+        "model": "Mô hình AI",
+        "elapsed": "Thời gian sinh báo cáo",
+        "createdAt": "Ngày tạo",
+        "closedAt": "Ngày đóng"
+      }
+    },
+    "form": {
+      "title": "Chọn coin để xem phân tích",
+      "subtitle": "Tổng hợp dữ liệu kỹ thuật, tin tức, và ví của bạn vào 1 báo cáo",
+      "headerSubtitle": "Trợ lý phân tích coin — gợi ý từ TA + tin tức",
+      "btn": {
+        "analyze": "Phân tích ngay",
+        "save": "Lưu báo cáo",
+        "saving": "Đang lưu...",
+        "savedViewHistory": "Đã lưu — Xem lịch sử",
+        "analyzeAnother": "Phân tích coin khác"
+      },
+      "aria": {
+        "exit": "Thoát",
+        "exitReport": "Thoát báo cáo"
+      },
+      "direction": {
+        "up": "TĂNG",
+        "down": "GIẢM"
+      },
+      "signal": {
+        "positive": "TÍCH CỰC",
+        "neutral": "TRUNG TÍNH",
+        "negative": "TIÊU CỰC"
+      },
+      "toast": {
+        "savedTitle": "Đã lưu vào lịch sử · {symbol}",
+        "likelihood": "Khả năng {dir} {confidence}%",
+        "entry": "Vào ${price}",
+        "leverageSuffix": "đòn bẩy {x}x",
+        "saveFailed": "Lưu báo cáo thất bại"
+      },
+      "coin": {
+        "label": "Chọn coin",
+        "loading": "đang tải...",
+        "count": "({count} coin)",
+        "searchPlaceholder": "Tìm coin theo symbol hoặc tên...",
+        "colCoin": "Coin",
+        "colPrice": "Giá",
+        "col24h": "24h",
+        "notFound": "Không tìm thấy coin"
+      },
+      "amount": {
+        "label": "Số tiền đầu tư"
+      },
+      "section": {
+        "risk": "Khẩu vị rủi ro",
+        "horizon": "Khung thời gian",
+        "advanced": "Tùy chỉnh nâng cao",
+        "experience": "Trình độ trader",
+        "experienceHint": "— AI tự điều chỉnh ngôn ngữ",
+        "goal": "Mục tiêu của bạn",
+        "style": "Phong cách giao dịch",
+        "tone": "Tone báo cáo",
+        "stopLoss": "Loại Stop Loss",
+        "leverage": "Đòn bẩy dự định",
+        "leverageHint": "— AI điều chỉnh cảnh báo rủi ro thanh lý",
+        "marketBias": "Góc nhìn thị trường",
+        "marketBiasHint": "— của bạn",
+        "entry": "Chiến lược vào lệnh",
+        "compare": "So sánh với coin khác",
+        "compareHint": "(không bắt buộc — AI thêm 1 đoạn so sánh)",
+        "maxRisk": "% vốn rủi ro tối đa / lệnh",
+        "profitTarget": "% lợi nhuận mục tiêu",
+        "infoTypes": "AI phân tích cho bạn những gì?",
+        "infoTypesCount": "— {count}/6 loại",
+        "depth": "Độ chi tiết báo cáo",
+        "interestTags": "Tags quan tâm",
+        "interestTagsHint": "— AI ưu tiên đề cập",
+        "excludeTags": "Tags loại trừ",
+        "excludeTagsHint": "— AI tránh đề cập",
+        "customRequest": "Yêu cầu thêm",
+        "optional": "(không bắt buộc)"
+      },
+      "risk": {
+        "low": {
+          "label": "Thận trọng",
+          "note": "Ưu tiên giữ vốn"
+        },
+        "mid": {
+          "label": "Cân bằng",
+          "note": "Risk/reward hài hòa"
+        },
+        "high": {
+          "label": "Mạo hiểm",
+          "note": "Chịu biến động lớn"
+        },
+        "degen": {
+          "label": "Liều cao",
+          "note": "Tối đa lợi nhuận"
+        }
+      },
+      "leverage": {
+        "spot": {
+          "note": "Không đòn bẩy"
+        },
+        "x2": {
+          "note": "Thấp"
+        },
+        "x3": {
+          "note": "Vừa"
+        },
+        "x5": {
+          "note": "Cao"
+        },
+        "x10": {
+          "note": "Rất cao"
+        },
+        "x20": {
+          "note": "Cực cao"
+        }
+      },
+      "marketBias": {
+        "bull": {
+          "label": "Tăng",
+          "desc": "Tôi nghĩ uptrend"
+        },
+        "bear": {
+          "label": "Giảm",
+          "desc": "Tôi nghĩ downtrend"
+        },
+        "crab": {
+          "label": "Đi ngang",
+          "desc": "Sideways/tích lũy"
+        },
+        "unsure": {
+          "label": "Chưa rõ",
+          "desc": "Để AI định hình"
+        }
+      },
+      "entry": {
+        "market": {
+          "desc": "Vào ngay giá hiện tại"
+        },
+        "limit": {
+          "desc": "Chờ giá về vùng tốt"
+        },
+        "scale": {
+          "desc": "Chia nhiều lần / DCA"
+        },
+        "breakout": {
+          "desc": "Chờ phá kháng cự"
+        }
+      },
+      "experience": {
+        "beginner": {
+          "label": "Mới",
+          "desc": "Lần đầu trade"
+        },
+        "intermediate": {
+          "label": "Trung cấp",
+          "desc": "Biết TA cơ bản"
+        },
+        "pro": {
+          "label": "Pro",
+          "desc": "Hiểu sâu indicator"
+        }
+      },
+      "tone": {
+        "professional": {
+          "label": "Chuyên nghiệp",
+          "desc": "Formal, đi thẳng số liệu"
+        },
+        "friendly": {
+          "label": "Thân thiện",
+          "desc": "Gần gũi, dùng \"bạn\""
+        },
+        "strict": {
+          "label": "Nghiêm khắc",
+          "desc": "Nhấn mạnh rủi ro"
+        }
+      },
+      "stopLoss": {
+        "hard": {
+          "label": "Cứng",
+          "desc": "Đặt lệnh thật trên sàn"
+        },
+        "trailing": {
+          "label": "Trailing",
+          "desc": "SL đuổi theo giá khi lời"
+        },
+        "mental": {
+          "label": "Mental",
+          "desc": "Tự nhớ, không đặt lệnh"
+        }
+      },
+      "horizon": {
+        "scalp": {
+          "note": "Vài giờ"
+        },
+        "day": {
+          "note": "1-3 ngày"
+        },
+        "swing": {
+          "note": "1-2 tuần"
+        },
+        "position": {
+          "note": "1-3 tháng"
+        }
+      },
+      "goal": {
+        "learn": {
+          "label": "Học hỏi crypto",
+          "desc": "AI lồng ghép kiến thức"
+        },
+        "profit": {
+          "label": "Lướt sóng ngắn hạn",
+          "desc": "Focus momentum + timing"
+        },
+        "invest": {
+          "label": "Đầu tư dài hạn",
+          "desc": "Focus trend + fundamentals"
+        },
+        "preserve": {
+          "label": "Bảo toàn vốn",
+          "desc": "Nhấn mạnh risk + stop-loss"
+        }
+      },
+      "style": {
+        "momentum": {
+          "label": "Bắt momentum",
+          "desc": "Vào lệnh khi giá đang chạy mạnh, tận dụng đà tăng"
+        },
+        "reversal": {
+          "label": "Bắt đáy",
+          "desc": "Vào lệnh khi giá đã giảm sâu, kỳ vọng bật lại"
+        },
+        "trend": {
+          "label": "Trend follow",
+          "desc": "Đi theo xu hướng dài, không cố đoán đỉnh đáy"
+        },
+        "dca": {
+          "label": "DCA",
+          "desc": "Mua đều theo thời gian, không quan tâm timing"
+        }
+      },
+      "depth": {
+        "short": {
+          "label": "Tóm tắt",
+          "desc": "1 phút đọc"
+        },
+        "medium": {
+          "label": "Vừa phải",
+          "desc": "3 phút đọc"
+        },
+        "long": {
+          "label": "Đầy đủ",
+          "desc": "5+ phút đọc"
+        }
+      },
+      "infoType": {
+        "technical": "Phân tích kỹ thuật",
+        "fundamental": "Thông tin dự án",
+        "news": "Tin tức 7 ngày",
+        "sentiment": "Sentiment cộng đồng",
+        "onchain": "On-chain (whale)",
+        "events": "Sự kiện sắp tới"
+      },
+      "compare": {
+        "placeholder": "Bấm để chọn coin so sánh...",
+        "searchPlaceholder": "Tìm coin..."
+      },
+      "tags": {
+        "interestPlaceholder": "DeFi, Layer2 + Enter...",
+        "excludePlaceholder": "NFT, memecoin + Enter...",
+        "hint": "Tối đa 10 tag, Enter để thêm"
+      },
+      "customRequest": {
+        "placeholder": "VD: 'Quan tâm phần on-chain', 'So sánh với ETH', 'Nói rõ hơn về risk', 'Cho ví dụ cụ thể'...",
+        "note": "AI sẽ đọc và tham chiếu yêu cầu này trong báo cáo"
+      },
+      "summary": {
+        "title": "Tóm tắt cấu hình",
+        "tone": "tone",
+        "entry": "vào",
+        "infoCount": "{count}/6 loại",
+        "interestTags": "{count} tag quan tâm",
+        "excludeTags": "{count} tag loại trừ",
+        "hasCustomRequest": "có yêu cầu thêm"
+      },
+      "loading": {
+        "progress": "Tiến độ",
+        "s1": {
+          "title": "Đang đọc dữ liệu coin",
+          "sub": "Giá real-time từ catalog (sync 30s)",
+          "short": "Dữ liệu coin"
+        },
+        "s2": {
+          "title": "Đang lấy giá lịch sử",
+          "sub": "200 nến từ Binance API",
+          "short": "Giá lịch sử"
+        },
+        "s3": {
+          "title": "Đang tính chỉ báo kỹ thuật",
+          "sub": "EMA, RSI, MACD, Bollinger qua thư viện chuẩn",
+          "short": "Chỉ báo"
+        },
+        "s4": {
+          "title": "Đang đọc ví của bạn",
+          "sub": "Snapshot holdings + cash balance",
+          "short": "Ví"
+        },
+        "s5": {
+          "title": "Đang đọc tin tức 7 ngày qua",
+          "sub": "Query bảng news + suy ra sentiment",
+          "short": "Tin tức"
+        },
+        "s6": {
+          "title": "AI đang viết báo cáo",
+          "sub": "Groq Llama-4 + structured JSON output",
+          "short": "Báo cáo AI"
+        }
+      },
+      "report": {
+        "badge": "BÁO CÁO AI",
+        "fromCache": "từ cache",
+        "probabilityLabel": "AI đánh giá xác suất",
+        "likelihood": "Khả năng {dir}",
+        "within": "trong {tf}",
+        "range": "Biên độ:",
+        "rangeTo": "đến",
+        "basis": "Cơ sở:",
+        "currentPrice": "GIÁ HIỆN TẠI",
+        "marketCap": "24h · Vốn hoá ${cap}B",
+        "taTitle": "PHÂN TÍCH KỸ THUẬT",
+        "rsiOverbought": "Quá mua",
+        "rsiOversold": "Quá bán",
+        "rsiBalanced": "Cân bằng",
+        "bbVolatilityBand": "dải biến động",
+        "newsTitle": "TIN TỨC LIÊN QUAN",
+        "newsMeta": "7 ngày · {count} tin",
+        "aiTitle": "NHẬN ĐỊNH CỦA AI",
+        "keyPoints": "Điểm chính",
+        "planTitle": "KỊCH BẢN GỢI Ý",
+        "leverageBadge": "Đòn bẩy {x}x",
+        "entryZone": "Vùng vào lệnh",
+        "suggestedSize": "Số lượng đề xuất",
+        "margin": "(margin ${amount} × {x}x)",
+        "stopLoss": "Cắt lỗ",
+        "risk": "Rủi ro: -${value}",
+        "takeProfit": "Chốt lời",
+        "reward": "Lợi nhuận: +${value}",
+        "liquidationPrice": "Giá thanh lý (~{x}x)",
+        "liquidationHint": "Đặt cắt lỗ TRƯỚC mức này để không cháy tài khoản",
+        "rrRatio": "Tỉ lệ Reward / Risk",
+        "disclaimerStrong": "Phân tích xác suất cho mục đích học tập",
+        "disclaimerRest": ", không phải lời khuyên đầu tư. Crypto biến động mạnh — bạn có thể mất toàn bộ vốn. Hãy tự đánh giá và chỉ đầu tư số tiền chấp nhận mất."
+      },
+      "langSwitch": "Đổi ngôn ngữ",
+      "error": {
+        "analyze": "Không thể phân tích lúc này",
+        "save": "Không lưu được báo cáo"
+      }
+    }
+  },
+  "community": {
+    "activeMember": "Thành viên tích cực",
+    "nav": {
+      "title": "Cộng đồng",
+      "searchPlaceholder": "Tìm kiếm coin, trader...",
+      "write": "Viết bài"
+    },
+    "userStats": {
+      "posts": "Bài viết",
+      "followers": "Theo dõi",
+      "accuracy": "Chính xác"
+    },
+    "sentimentMeter": {
+      "title": "Tâm lý đám đông",
+      "greed": "Tham lam",
+      "fear": "Sợ hãi",
+      "euphoria": "Hưng phấn",
+      "stats": "{count} bài · 1h qua"
+    },
+    "leaderboard": {
+      "title": "Bảng xếp hạng tuần",
+      "trades": "{count} lệnh"
+    },
+    "post": {
+      "placeholder": "Chia sẻ nhận định thị trường, tín hiệu giao dịch... ($BTC, $ETH)",
+      "selectCoin": "Chọn Coin",
+      "noResults": "Không tìm thấy kết quả",
+      "viewpoint": "Quan điểm",
+      "submit": "Đăng bài",
+      "delete": "Xóa bài viết"
+    },
+    "toolbar": {
+      "addImage": "Thêm ảnh",
+      "chart": "Biểu đồ",
+      "emoji": "Emoji",
+      "hashtag": "Hashtag"
+    },
+    "sentiment": {
+      "bull": "Tích cực",
+      "bear": "Tiêu cực",
+      "neutral": "Quan sát"
+    },
+    "tabs": {
+      "forYou": "Dành cho bạn",
+      "following": "Đang theo dõi",
+      "signals": "Tín hiệu Trade"
+    },
+    "feed": {
+      "emptyTitle": "Chưa có bài viết nào",
+      "emptyDescription": "Hãy là người đầu tiên chia sẻ phân tích!",
+      "loadMore": "Xem thêm"
+    },
+    "trending": {
+      "title": "Thị trường nổi bật",
+      "all": "Tất cả",
+      "empty": "Chưa có dữ liệu",
+      "colName": "Tên",
+      "colPrice": "Giá gần nhất",
+      "colChange": "Thay đổi",
+      "postCount": "{count} bài viết"
+    },
+    "activity": {
+      "title": "Hoạt động gần đây",
+      "openedLongBtc": "vừa mở vị thế Long BTC",
+      "commentedEth": "bình luận về phân tích ETH",
+      "winStreak": "đạt chuỗi 10 lệnh thắng"
+    },
+    "announcements": {
+      "title": "Lịch vĩ mô & cảnh báo",
+      "warningBadge": "Cảnh báo",
+      "eventBadge": "Sự kiện",
+      "fomc": "FOMC họp lúc 2:00 AM — biến động cao",
+      "contest": "Cuộc thi Trading tháng 3 — $5,000 USDT"
+    },
+    "time": {
+      "minutesAgo": "{n} phút trước",
+      "hoursAgo": "{n}h trước"
+    },
+    "deleteModal": {
+      "title": "Xóa bài viết",
+      "description": "Hành động không thể hoàn tác. Bạn chắc chắn muốn xóa?",
+      "confirm": "Xóa",
+      "cancel": "Hủy"
+    },
+    "toast": {
+      "contentRequired": "Nhập nội dung và chọn quan điểm!",
+      "posted": "Đã đăng!",
+      "postError": "Lỗi đăng bài",
+      "deleted": "Đã xóa",
+      "deletedDesc": "Bạn đã xóa bài viết",
+      "deleteFailed": "Xóa thất bại",
+      "deleteFailedDesc": "Có lỗi sảy ra, vui lòng xem lại",
+      "linkCopied": "Đã sao chép link!",
+      "shareError": "Lỗi chia sẻ"
+    }
+  },
+  "orders": {
+    "header": {
+      "change24h": "Biến động 24h",
+      "high24h": "Cao nhất 24h",
+      "low24h": "Thấp nhất 24h",
+      "volume": "Volume",
+      "volumeUsdt": "Volume USDT",
+      "coin": "Coin"
+    },
+    "tabs": {
+      "chart": "Đồ thị",
+      "info": "Thông tin",
+      "analysis": "Phân tích"
+    },
+    "form": {
+      "buy": "Mua",
+      "sell": "Bán",
+      "available": "Khả dụng",
+      "price": "Giá",
+      "quantity": "Số lượng",
+      "max": "MAX",
+      "totalWithFee": "Tổng (gồm phí)",
+      "total": "Tổng",
+      "totalPlaceholder": "Tối thiểu 5 USDT",
+      "fee": "Phí"
+    },
+    "book": {
+      "title": "Sổ lệnh",
+      "price": "Giá (USDT)",
+      "amount": "KL ()",
+      "total": "Tổng",
+      "buyShort": "M",
+      "sellShort": "B"
+    },
+    "trades": {
+      "title": "Giao dịch gần đây",
+      "mine": "Của tôi",
+      "price": "Giá",
+      "amount": "KL",
+      "time": "TG",
+      "empty": "Chưa có giao dịch khớp"
+    },
+    "pairs": {
+      "searchPlaceholder": "Tìm cặp giao dịch...",
+      "pair": "Cặp",
+      "price": "Giá",
+      "change24h": "24h",
+      "empty": "Chưa có cặp giao dịch"
+    },
+    "coinSelector": {
+      "searchPlaceholder": "Tìm kiếm tiền mã hóa...",
+      "name": "Tên",
+      "lastPrice": "Giá gần nhất",
+      "change": "Thay đổi",
+      "notFound": "Không tìm thấy kết quả"
+    },
+    "history": {
+      "title": "Sổ lệnh",
+      "pair": "Cặp",
+      "type": "Loại",
+      "side": "Phía",
+      "orderPrice": "Giá đặt",
+      "quantity": "Khối lượng",
+      "filled": "Đã khớp",
+      "total": "Tổng tiền",
+      "status": "Trạng thái",
+      "actions": "Thao tác",
+      "buy": "Mua",
+      "sell": "Bán",
+      "cancel": "Hủy",
+      "loading": "Đang tải...",
+      "empty": "Chưa có lệnh nào",
+      "totalLabel": "Tổng:",
+      "ordersUnit": "lệnh",
+      "prev": "‹ Trước",
+      "next": "Sau ›"
+    },
+    "tabsHistory": {
+      "open": "Đang mở",
+      "all": "Tất cả",
+      "filled": "Đã khớp",
+      "canceled": "Đã hủy"
+    },
+    "status": {
+      "PENDING": "Chờ khớp",
+      "PARTIALLY_FILLED": "Khớp một phần",
+      "FILLED": "Đã khớp",
+      "CANCELED": "Đã hủy"
+    },
+    "statusBar": {
+      "pending": "Chờ khớp",
+      "filled": "Đã khớp",
+      "canceled": "Đã hủy",
+      "buy": "Mua",
+      "sell": "Bán",
+      "topMovers": "Top biến động:"
+    },
+    "toast": {
+      "canceled": "Đã hủy lệnh",
+      "canceledDesc": "Lệnh #{id} đã được hủy thành công",
+      "cancelFailed": "Hủy lệnh thất bại",
+      "tryAgain": "Vui lòng thử lại",
+      "placeFailed": "Đặt lệnh {side} thất bại",
+      "invalidQty": "Vui lòng nhập số lượng hợp lệ",
+      "invalidPrice": "Vui lòng nhập giá hợp lệ",
+      "placedTitle": "Lệnh {side} đặt thành công",
+      "placedDesc": "{qty} {coin} · ${price} · ~${total} USDT",
+      "filledTitle": "Lệnh {side} đã khớp!",
+      "filledDesc": "{qty} {coin} {'@'}${price} · ~${total} USDT",
+      "notifyFilledTitle": "Lệnh {side} đã khớp!",
+      "notifyFilledDesc": "{qty} {coin} {'@'}${price}",
+      "partialTitle": "Khớp một phần",
+      "partialDesc": "{filled} / {qty} {coin} {'@'}${price}"
+    },
+    "side": {
+      "buy": "MUA",
+      "sell": "BÁN"
+    },
+    "error": {
+      "loadOrders": "Lỗi tải lệnh",
+      "loadBook": "Không lấy được sổ lệnh"
+    }
+  },
+  "news": {
+    "navbar": {
+      "title": "Tin tức",
+      "searchPlaceholder": "Tìm kiếm tin tức..."
+    },
+    "categories": {
+      "all": "Tất cả",
+      "macro": "Vĩ mô",
+      "bitcoin": "Bitcoin",
+      "altcoin": "Altcoin",
+      "defi": "DeFi",
+      "nft": "NFT",
+      "regulation": "Pháp lý",
+      "tech": "Công nghệ"
+    },
+    "latest": {
+      "title": "Mới nhất",
+      "live": "Trực tiếp",
+      "today": "Hôm nay"
+    },
+    "featured": {
+      "title": "Tin nổi bật",
+      "viewAll": "Xem tất cả",
+      "updatedAt": "Cập nhật {time}"
+    },
+    "divider": {
+      "recent": "Gần đây"
+    },
+    "grid": {
+      "allNews": "Tất cả tin tức",
+      "articleCount": "{count} bài viết"
+    }
+  }
+}

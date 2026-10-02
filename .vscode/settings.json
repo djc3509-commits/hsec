@@ -1,0 +1,9 @@
+{
+  // Dự án dùng Tailwind v4 — các at-rule @theme/@plugin/@apply và cú pháp
+  // @import "tailwindcss" theme(static) khiến trình CSS mặc định của VSCode
+  // báo lỗi giả (semicolon/lcurly expected, unknown at rule). Build thật
+  // (Vite + Tailwind) vẫn đúng, nên tắt validate built-in để hết đỏ nhầm.
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false
+}

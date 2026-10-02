@@ -1,0 +1,1542 @@
+﻿{
+  "login": {
+    "title": "Login",
+    "description": "Welcome back! Please login to your account.",
+    "email": "Email",
+    "email_placeholder": "Enter your email",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "remember": "Remember me",
+    "google": "Login with Google",
+    "github": "Login with GitHub",
+    "toast_google": "Google login clicked",
+    "toast_github": "GitHub login clicked",
+    "error_email": "Invalid email address",
+    "error_password_required": "Password is required",
+    "error_password_min": "Password must be at least 8 characters long",
+    "error_invalid_credentials": "Invalid email or password",
+    "success": "Login successful",
+    "toast_success": "You have successfully logged in",
+    "no_account": "You don't have an account yet?",
+    "register_link": "Register"
+  },
+  "register": {
+    "title": "Register",
+    "username": "Username",
+    "fullname": "Full Name",
+    "email": "Email",
+    "description": "Create a new account.",
+    "identifier": "Phone number or Email",
+    "phone_or_email": "Phone number or Email",
+    "phone_or_email_placeholder": "Enter your phone number or email",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "confirm_password": "Confirm Password",
+    "confirm_password_placeholder": "Re-enter your password",
+    "terms": "I agree to the Terms and Conditions",
+    "google": "Register with Google",
+    "github": "Register with GitHub",
+    "facebook": "Register with Facebook",
+    "toast_facebook": "Facebook registration clicked",
+    "toast_google": "Google registration clicked",
+    "toast_github": "GitHub registration clicked",
+    "error": "Error",
+    "error_identifier_required": "Phone number or email is required",
+    "error_password_required": "Password is required",
+    "error_password_min": "Password must be at least 8 characters long",
+    "error_confirm_password_min": "Confirm password must be at least 8 characters long",
+    "error_confirm_password": "Passwords do not match",
+    "error_terms": "You must agree to the Terms and Conditions",
+    "error_terms_required": "You must agree to the Terms and Conditions",
+    "username_placeholder": "Enter username",
+    "fullname_placeholder": "Enter full name",
+    "email_placeholder": "Enter email",
+    "error_name_min": "Username must be at least 3 characters long",
+    "error_name_max": "Username must be at most 20 characters long",
+    "error_fullname_min": "Full name must be at least 2 characters long",
+    "error_email_invalid": "Invalid email address",
+    "error_email": "Invalid email address",
+    "error_username_min": "Username must be at least 3 characters long",
+    "error_username_max": "Username must be at most 20 characters long",
+    "error_password_mismatch": "Passwords do not match",
+    "success": "Registration successful",
+    "toast_success": "You have successfully registered",
+    "error_registration_failed": "Registration failed. Please try again.",
+    "already_have_account": "Already have an account?",
+    "login_link": "Login"
+  },
+  "common": {
+    "action": {
+      "sign_out": "Sign out"
+    },
+    "menu": {
+      "profile": "Profile",
+      "billing": "Billing",
+      "settings": "Settings"
+    }
+  },
+  "user_menu": {
+    "theme": "Theme",
+    "primary": "Primary",
+    "neutral": "Neutral",
+    "appearance": "Appearance",
+    "light": "Light",
+    "dark": "Dark",
+    "language": "Language"
+  },
+  "assets": {
+    "title": "Assets",
+    "totalNav": "Total Net Asset Value (NAV)",
+    "profit_loss": "Profit/Loss",
+    "assets_allocation": "Assets allocation",
+    "available_cash": "Available cash"
+  },
+  "landing": {
+    "title": "Welcome to the era of Web3 and Blockchain finance",
+    "description": "Lightning-fast, safe, and secure crypto trading. The #1 platform to optimize your digital assets.",
+    "header": {
+      "title": "HSEC",
+      "market": "Markets",
+      "pro_tools": "Pro Tools",
+      "start": "Get Started",
+      "login": "Login",
+      "register": "Register",
+      "dashboard": "Go to Dashboard"
+    },
+    "hero": {
+      "badge": "A crypto trading simulator",
+      "title_primary": "Learn crypto through",
+      "title_highlight": "hands-on practice",
+      "trade_now": "Try it out",
+      "register": "Register"
+    },
+    "logos": {
+      "title": "Built with"
+    },
+    "metrics": {
+      "headline": "Overview",
+      "title": "A crypto sandbox for beginners",
+      "description": "A simulation playground for getting familiar with matching engines, wallets and charts — no real money involved.",
+      "items": {
+        "0": {
+          "value": "100%",
+          "label": "Simulated, no real money"
+        },
+        "1": {
+          "value": "100+",
+          "label": "Top market coins"
+        },
+        "2": {
+          "value": "30s",
+          "label": "Price sync from Binance"
+        },
+        "3": {
+          "value": "10K",
+          "label": "Virtual USDT on signup"
+        }
+      }
+    },
+    "section": {
+      "title": "Get familiar with the crypto market",
+      "description": "Place BUY/SELL orders, watch the order book, manage your wallet — learn how markets work without losing real money.",
+      "items": {
+        "0": {
+          "title": "LIMIT / MARKET order matching",
+          "desc": "Real order book, hand-written matching engine. Place limit and market orders and watch matches happen live."
+        },
+        "1": {
+          "title": "Real-time prices from Binance",
+          "desc": "Prices sync from Binance every 30 seconds, combined with WebSocket overlay for live tickers. Data tracks the real market closely."
+        },
+        "2": {
+          "title": "Beginner-friendly AI assistant",
+          "desc": "Chat with AI to ask about crypto concepts, how to use the app, and what indicators mean. Helpful for newcomers."
+        }
+      }
+    },
+    "features": {
+      "title": "What's available",
+      "description": "This is a personal project — below is everything that's been built and is currently running.",
+      "items": {
+        "0": {
+          "title": "Order Book",
+          "desc": "Displays 20 price levels around the spread, refreshing every 1.5s. Click a price to auto-fill the order form."
+        },
+        "1": {
+          "title": "Candlestick Charts",
+          "desc": "Integrated Lightweight Charts with multiple timeframes (1m–1M). Kline data pulled from Binance's public API."
+        },
+        "2": {
+          "title": "Wallet & Portfolio",
+          "desc": "Track USDT balance, per-coin holdings, and P&L by period (daily/weekly/monthly). Allocation donut included."
+        },
+        "3": {
+          "title": "Community & News",
+          "desc": "Post analysis, tag $coins, like and comment. Crypto news feed with trending filter."
+        },
+        "4": {
+          "title": "Streaming AI Chat",
+          "desc": "Integrated with Groq (Llama 3.3) with streaming responses. Chat about markets and how to use the app."
+        },
+        "5": {
+          "title": "Analytics Dashboard",
+          "desc": "Total assets, P&L variation, transaction cash flow, market sentiment. Filter by custom date range."
+        }
+      }
+    },
+    "steps": {
+      "title": "Get started in 3 steps",
+      "description": "No KYC, no real deposit. Create an account and start exploring right away.",
+      "items": {
+        "0": {
+          "title": "1. Register an account",
+          "desc": "Email + password, no complex verification. Done in 30 seconds."
+        },
+        "1": {
+          "title": "2. Receive 10,000 virtual USDT",
+          "desc": "New accounts automatically get 10K virtual USDT to play with. Top up in settings if you run out."
+        },
+        "2": {
+          "title": "3. Place your first order",
+          "desc": "Go to Orders, pick a coin, place a BUY/SELL order. Watch the matching engine handle it."
+        }
+      }
+    },
+    "pricing": {
+      "title": "Completely free",
+      "description": "This is a learning / portfolio project — no fees, no ads, no VIP tiers.",
+      "plans": {
+        "standard": {
+          "title": "Sandbox Account",
+          "desc": "One tier — for everyone trying it out",
+          "price": "Free",
+          "features": [
+            "10,000 virtual USDT to start",
+            "All features unlocked",
+            "Order book, charts, AI chat",
+            "Community & news"
+          ],
+          "btn": "Register for free"
+        },
+        "vip": {
+          "title": "Future roadmap",
+          "desc": "Things that may be added later (no promises)",
+          "price": "TBD",
+          "features": [
+            "Strategy backtesting",
+            "Advanced paper trading",
+            "Multi-exchange integration",
+            "Demo trading bots",
+            "Simulated social trading",
+            "Open source release"
+          ],
+          "btn": "Follow updates"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Project goals",
+      "description": "HSEC was built as a learning project for fullstack Nuxt 4 + TiDB + AI. The quotes below are mock feedback from a developer perspective.",
+      "items": {
+        "0": {
+          "quote": "I use it to learn how matching engines work — writing SQL transactions, locking rows, handling race conditions. Much deeper than just reading theory.",
+          "role": "Backend dev in training"
+        },
+        "1": {
+          "quote": "Clean UI with dark mode, smooth order placement. I use it as a demo in my portfolio to show Nuxt UI + ApexCharts skills.",
+          "role": "Frontend dev"
+        },
+        "2": {
+          "quote": "The AI chat streaming with Groq is my favorite part. Low latency, proper UI message stream protocol.",
+          "role": "AI explorer"
+        }
+      }
+    },
+    "cta": {
+      "title": "Try it and learn",
+      "description": "Create a free account, get 10,000 virtual USDT, and start exploring. No rewards other than knowledge.",
+      "btn1": "Start for free",
+      "btn2": "View source on Github"
+    },
+    "footer": {
+      "about": "About HSEC",
+      "about_links": [
+        "About Us",
+        "Proof of Reserves (PoR)",
+        "Careers",
+        "Privacy Policy"
+      ],
+      "trade": "Trade",
+      "trade_links": [
+        "Spot Trading",
+        "Futures (USDT-M)",
+        "Copy Trading",
+        "HSEC Earn (Staking)"
+      ],
+      "support": "Support",
+      "support_links": [
+        "P2P Trading",
+        "Trading Fees",
+        "Support Center",
+        "Submit a Ticket"
+      ]
+    },
+    "form": {
+      "label": "Subscribe to our weekly market newsletter",
+      "placeholder": "Enter your email",
+      "btn": "Subscribe"
+    }
+  },
+  "pagination": {
+    "items_per_page": "{count} per page"
+  },
+  "wallets": {
+    "title": "Wallet",
+    "hero": {
+      "total_assets": "Total Assets",
+      "unrealized": "unrealized",
+      "deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "transfer": "Transfer",
+      "total_cost": "Total Cost Basis",
+      "total_cost_hint": "Invested",
+      "market_value": "Market Value",
+      "market_value_hint": "Current price",
+      "pnl": "P&L",
+      "pnl_unrealized_hint": "unrealized",
+      "coin": "Coin",
+      "coin_count": "{count} coins",
+      "available": "Available",
+      "available_hint": "Available"
+    },
+    "sparkline": {
+      "title": "P&L last 7 days",
+      "source": "Realized P&L · from order history",
+      "empty": "No transactions in the last 7 days"
+    },
+    "allocation": "Portfolio Allocation",
+    "info": {
+      "unrealized": "Unrealized P&L",
+      "cumulative": "Cumulative P&L",
+      "text_unrealized": "(this page) — calculated on current holdings: market price vs. average cost basis.",
+      "text_cumulative": "(dashboard) — sums all P&L from filled orders, including past losses already sold. The two numbers can differ — that is normal."
+    },
+    "asset_tabs": {
+      "by_coin": "By Coin",
+      "by_wallet": "By Wallet"
+    },
+    "asset_list_title": "Assets List",
+    "search_placeholder": "Search coin...",
+    "hide_dust": "Hide <$1",
+    "donut": {
+      "title": "Portfolio Structure",
+      "total_nav": "Total NAV",
+      "total_value": "Total Value"
+    },
+    "transactions": {
+      "title": "Recent Transactions",
+      "view_all": "View all",
+      "status": {
+        "completed": "Completed",
+        "pending": "Pending"
+      },
+      "type": {
+        "buy": "Buy",
+        "sell": "Sell",
+        "deposit": "Deposit",
+        "withdraw": "Withdraw"
+      }
+    },
+    "columns": {
+      "asset": "Asset",
+      "amount": "Amount",
+      "cost": "Avg Cost / Total Cost",
+      "cost_hint": "Cost",
+      "current_price": "Market Price",
+      "current_value": "Current Value",
+      "pnl": "P&L",
+      "actions": "Actions",
+      "buy": "Buy",
+      "sell": "Sell"
+    },
+    "empty": "No coins in your wallet",
+    "recharge": {
+      "heading_1": "Deposit",
+      "heading_2": "Safe & Secure.",
+      "subtitle": "Deposit assets into your HSEC wallet in just 3 steps. All transactions are insured by the escrow system.",
+      "market_trend": "Market Trend",
+      "security_notice": "HSEC guarantees 100% security for deposited assets. Any technical issues will be resolved within 30 minutes.",
+      "config_title": "Deposit Configuration",
+      "config_subtitle": "Automated P2P Transaction",
+      "current_balance": "Current Balance",
+      "you_pay": "You pay",
+      "limit": "Limit: 150,000 - 560,000,000 ₫",
+      "you_receive": "You will receive",
+      "good_rate": "Good rate",
+      "payment_method": "Deposit Method",
+      "confirm": "Confirm Deposit",
+      "support_247": "Support 24/7",
+      "quick": {
+        "500k": "500K",
+        "1m": "1 million",
+        "2_5m": "2.5M",
+        "5m": "5 million"
+      },
+      "methods": {
+        "bank_name": "Bank Transfer (Auto)",
+        "bank_desc": "Processed in 1-3 minutes"
+      }
+    },
+    "deposit": {
+      "title": "Deposit to Wallet",
+      "subtitle": "Choose how you want to start",
+      "secure_title": "Safe & Secure",
+      "secure_desc": "Every deposit transaction at HSEC is end-to-end encrypted and monitored by the AI system 24/7.",
+      "support_center": "Support Center",
+      "groups": {
+        "fiat": "Fiat",
+        "digital": "Digital Assets"
+      },
+      "methods": {
+        "bank_title": "Bank Transfer",
+        "bank_desc": "Deposit VND quickly via QR Code or account number.",
+        "bank_badge": "Fastest",
+        "p2p_title": "P2P Trading",
+        "p2p_desc": "Buy Crypto directly from trusted sellers.",
+        "p2p_badge": "Good rate",
+        "onchain_title": "On-chain Deposit",
+        "onchain_desc": "Deposit via BTC, ETH, BSC, SOL networks...",
+        "onchain_badge": "Secure"
+      },
+      "currencies": {
+        "VND": "Vietnamese Dong",
+        "AMD": "Armenian Dram",
+        "AUD": "Australian Dollar",
+        "BYN": "Belarusian Ruble",
+        "GEL": "Georgian Lari",
+        "IDR": "Indonesian Rupiah"
+      }
+    },
+    "list": {
+      "unrealized_pnl": "Unrealized P&L",
+      "net": "net",
+      "compare_hint": "Vs. cost basis · Green = profit · Red = loss",
+      "empty": "No coins in your wallet yet",
+      "tooltip_profit": "In profit +",
+      "tooltip_loss": "In loss -"
+    },
+    "toast": {
+      "deposit_success": "Successfully deposited {amount} USDT!",
+      "deposit_failed": "Deposit failed, please try again",
+      "load_error": "Failed to load wallet"
+    }
+  },
+  "markets": {
+    "title": "Crypto Markets",
+    "subtitle": "Real-time updates",
+    "live": "Live updating",
+    "stats": {
+      "market_cap": "Market Cap",
+      "volume_24h": "Volume 24h",
+      "btc_dominance": "BTC Dominance"
+    },
+    "trade_button": "Trade Now",
+    "tabs": {
+      "watchlist": "Watchlist",
+      "crypto": "Crypto",
+      "spot": "Spot",
+      "futures": "Futures",
+      "alpha": "Alpha",
+      "new": "New Listings",
+      "zone": "Zone"
+    },
+    "new_badge": "New",
+    "view_more": "View more",
+    "cards": {
+      "popular": "Popular",
+      "top_gainers": "Top Gainers",
+      "top_losers": "Top Losers",
+      "top_volume": "Top Volume"
+    },
+    "filters": {
+      "all": "All",
+      "gainers": "Top Gainers",
+      "losers": "Top Losers"
+    },
+    "search_placeholder": "Search tokens...",
+    "token_count": "{count} tokens",
+    "columns": {
+      "rank": "#",
+      "name": "Name",
+      "price": "Price",
+      "change_percent_24h": "24h %",
+      "change_24h": "Change",
+      "high_24h": "24h High",
+      "low_24h": "24h Low",
+      "volume_usdt": "Volume (USDT)",
+      "volume_coin": "Vol (Coin)",
+      "market_cap": "Market Cap",
+      "actions": "Actions"
+    },
+    "actions": {
+      "buy": "Buy",
+      "sell": "Sell"
+    },
+    "empty": "No coins found"
+  },
+  "layout": {
+    "sidebar": {
+      "home": "Home",
+      "markets": "Markets",
+      "assets": "Assets",
+      "orders": "Orders",
+      "community": "Community",
+      "news": "News",
+      "analyst": "AI Analyst",
+      "settings": "Settings",
+      "profile": "Profile",
+      "members": "Members",
+      "notifications": "Notifications",
+      "security": "Security"
+    },
+    "ai": {
+      "assistant": "AI Assistant",
+      "new_chat": "New chat",
+      "fullscreen": "Fullscreen",
+      "chat_ai": "AI Chat"
+    },
+    "footer": {
+      "description": "A reputable, safe, and transparent cryptocurrency trading platform — built specifically for investors.",
+      "newsletter_title": "Subscribe to our weekly market newsletter",
+      "email_placeholder": "Enter your email",
+      "subscribe_btn": "Subscribe",
+      "toast_title": "Subscribed",
+      "toast_desc": "You have successfully subscribed to our market newsletter.",
+      "built_with": "Built with",
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "cookie": "Cookie",
+      "about": "About HSEC",
+      "about_links": [
+        "About Us",
+        "Proof of Reserves (PoR)",
+        "Careers",
+        "Privacy Policy"
+      ],
+      "trade": "Trade",
+      "trade_links": [
+        "Spot Trading",
+        "Futures (USDT-M)",
+        "Copy Trading",
+        "HSEC Earn (Staking)"
+      ],
+      "support": "Support",
+      "support_links": [
+        "P2P Trading",
+        "Trading Fees",
+        "Support Center",
+        "Submit a Ticket"
+      ]
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "personal_info": "Personal Information",
+    "account_details": "Account Details",
+    "fullname": "Full Name",
+    "fullname_placeholder": "Enter your full name",
+    "email": "Email",
+    "username": "Username",
+    "user_id": "User ID",
+    "member_since": "Member Since",
+    "last_updated": "Last Updated",
+    "role": "Role",
+    "status_active": "Active",
+    "status_inactive": "Inactive",
+    "expert": "Expert",
+    "save": "Save Changes",
+    "toast_saved": "Profile saved",
+    "toast_save_error": "Failed to save",
+    "toast_avatar_updated": "Avatar updated",
+    "toast_avatar_too_large": "Image max 5MB",
+    "toast_avatar_error": "Avatar upload failed",
+    "error_fullname_min": "Full name must be at least 2 characters",
+    "error_fullname_max": "Full name max 100 characters",
+    "security_title": "Security & Privacy",
+    "change_password": "Change Password",
+    "change_password_hint": "Update password regularly for safety",
+    "two_factor": "Two-Factor Auth",
+    "two_factor_hint": "Add an extra layer with OTP",
+    "notifications": "Notifications",
+    "notifications_hint": "Customize alert channels & events",
+    "coming_soon": "Coming Soon",
+    "activity_title": "Activity Overview",
+    "stat_status": "Status",
+    "stat_status_hint": "Account in use",
+    "stat_role": "Role",
+    "stat_role_hint": "System permissions",
+    "stat_expert": "Expert",
+    "stat_expert_hint": "Community expert badge",
+    "expert_yes": "Verified",
+    "expert_no": "None",
+    "stat_account_age": "Account Age",
+    "stat_account_age_hint": "Days since signup",
+    "days": "days"
+  },
+  "analyst": {
+    "glossary": {
+      "winRate": {
+        "name": "Win Rate",
+        "desc": "Percentage of closed recommendations that hit Take Profit, over all closed recommendations."
+      },
+      "pnl": {
+        "name": "PnL (Profit & Loss)",
+        "desc": "Total profit (positive) or loss (negative) accumulated from closed recommendations."
+      },
+      "bestTrade": {
+        "name": "Best Trade",
+        "desc": "The recommendation with the highest profit in your whole history."
+      },
+      "open": {
+        "name": "Open Positions",
+        "desc": "Number of recommendations still open, waiting for price to hit TP/SL."
+      },
+      "equity": {
+        "name": "Equity Curve",
+        "desc": "Simulated capital over time if you had followed every AI recommendation."
+      },
+      "horizon": {
+        "name": "Horizon / Timeframe",
+        "desc": "Expected holding time: Scalp (hours) · Day (1-3 days) · Swing (1-2 weeks) · Position (1-3 months)."
+      },
+      "direction": {
+        "name": "Direction",
+        "desc": "Expected price direction: LONG = bet price rises, SHORT = bet price falls."
+      },
+      "confidence": {
+        "name": "Confidence",
+        "desc": "AI-estimated probability for the predicted direction (about 50-85%). Never an absolute certainty."
+      },
+      "entry": {
+        "name": "Entry Price",
+        "desc": "The price the AI suggests opening the position at."
+      },
+      "exit": {
+        "name": "Exit Price",
+        "desc": "The actual price the position was closed at (when TP/SL hit or closed manually). A \"—\" means not closed yet."
+      },
+      "stopLoss": {
+        "name": "Stop Loss (SL)",
+        "desc": "The price to close the position at to cap the loss if price moves against the prediction."
+      },
+      "takeProfit": {
+        "name": "Take Profit (TP)",
+        "desc": "The price to close the position at to realize profit when price moves as predicted."
+      },
+      "positionSize": {
+        "name": "Position Size",
+        "desc": "Quantity of coin in the position (already multiplied by leverage)."
+      },
+      "leverage": {
+        "name": "Leverage",
+        "desc": "Position multiplier. x1 = no leverage (spot); x10 = position 10x your capital, profit/loss both multiplied by 10."
+      },
+      "notional": {
+        "name": "Notional Value",
+        "desc": "Total position value = capital × leverage."
+      },
+      "liquidation": {
+        "name": "Liquidation Price",
+        "desc": "The price at which a leveraged position is force-closed (liquidated). Set SL before this level."
+      },
+      "riskReward": {
+        "name": "Risk / Reward",
+        "desc": "Ratio between max loss (to SL) and expected gain (to TP)."
+      },
+      "long": {
+        "name": "Long",
+        "desc": "A position expecting price to RISE — profit when price goes up, loss when it goes down."
+      },
+      "short": {
+        "name": "Short",
+        "desc": "A position expecting price to FALL — profit when price goes down, loss when it goes up."
+      },
+      "scalp": {
+        "name": "Scalp",
+        "desc": "Hold for a few hours, capture small moves. SL ~1.5%, TP ~2.5%."
+      },
+      "day": {
+        "name": "Day Trade",
+        "desc": "Hold for 1-3 days. SL ~3%, TP ~5%."
+      },
+      "swing": {
+        "name": "Swing Trade",
+        "desc": "Hold for 1-2 weeks following the price swing. SL ~5%, TP ~10%."
+      },
+      "position": {
+        "name": "Position Trade",
+        "desc": "Hold for 1-3 months following the major trend. SL ~10%, TP ~30%."
+      },
+      "HIT_TP": {
+        "name": "Hit Take Profit",
+        "desc": "Price reached the take-profit target (TP) → winning recommendation."
+      },
+      "HIT_SL": {
+        "name": "Hit Stop Loss",
+        "desc": "Price reached the stop-loss level (SL) → losing recommendation."
+      },
+      "EXPIRED": {
+        "name": "Expired",
+        "desc": "Expected timeframe elapsed without hitting TP/SL → closed at current price."
+      }
+    },
+    "labels": {
+      "horizon": {
+        "scalp": "Scalp",
+        "day": "Day Trade",
+        "swing": "Swing",
+        "position": "Position"
+      },
+      "risk": {
+        "low": "Cautious",
+        "mid": "Balanced",
+        "high": "Aggressive",
+        "degen": "Degen"
+      },
+      "experience": {
+        "beginner": "Beginner",
+        "intermediate": "Intermediate",
+        "pro": "Pro"
+      },
+      "goal": {
+        "learn": "Learn",
+        "profit": "Short-term",
+        "invest": "Long-term",
+        "preserve": "Preserve capital"
+      },
+      "style": {
+        "momentum": "Momentum",
+        "reversal": "Reversal",
+        "trend": "Trend",
+        "dca": "DCA"
+      },
+      "reportDepth": {
+        "short": "Brief",
+        "medium": "Medium",
+        "long": "Detailed"
+      },
+      "tone": {
+        "professional": "Professional",
+        "friendly": "Friendly",
+        "strict": "Strict"
+      },
+      "stopLossKind": {
+        "hard": "Hard",
+        "trailing": "Trailing",
+        "mental": "Mental"
+      },
+      "marketBias": {
+        "bull": "Bullish",
+        "bear": "Bearish",
+        "crab": "Sideways",
+        "unsure": "Unsure"
+      },
+      "entryStrategy": {
+        "market": "Market",
+        "limit": "Limit",
+        "scale": "Scale-in",
+        "breakout": "Breakout"
+      }
+    },
+    "status": {
+      "OPEN": "RUNNING",
+      "HIT_TP": "TAKE PROFIT",
+      "HIT_SL": "STOP LOSS",
+      "EXPIRED": "EXPIRED"
+    },
+    "history": {
+      "title": "AI Performance",
+      "subtitle": "Track record of AI recommendations",
+      "headline": "Your AI performance",
+      "headlineSub": "Track record over {total} recommendations · Auto-updates when price hits TP/SL",
+      "col": {
+        "date": "Date",
+        "coin": "Coin",
+        "horizon": "Frame",
+        "direction": "Side",
+        "conf": "Conf",
+        "entry": "In",
+        "exit": "Out",
+        "status": "Status",
+        "pnl": "PnL",
+        "actions": "Actions"
+      },
+      "viewDetail": "View {sym} analysis detail",
+      "close": "Close",
+      "closeAria": "Close position #{id}",
+      "deleteAria": "Delete recommendation #{id}",
+      "delete": "Delete",
+      "deleteAll": "Delete all",
+      "cancel": "Cancel",
+      "delOne": {
+        "title": "Delete recommendation",
+        "msg": "Remove recommendation #{id} from history? This action cannot be undone."
+      },
+      "delAll": {
+        "title": "Delete all history",
+        "msg": "Delete all {count} recommendations? This action cannot be undone."
+      },
+      "closeConfirm": {
+        "title": "Close position at current price",
+        "msg": "Close recommendation #{id} now? PnL will be computed at the current price and recorded into stats (Win Rate / Total PnL)."
+      },
+      "toast": {
+        "deletedOne": "Recommendation deleted",
+        "deletedAll": "All history deleted",
+        "removedDesc": "{count} recommendation(s) removed from track record"
+      },
+      "profit": "Profit",
+      "loss": "Loss",
+      "error": "Error",
+      "actionFailed": "Action failed",
+      "closeToast": {
+        "title": "Closed #{id} · {sym} — {result} {amount}",
+        "desc": "In {entry} → Out {exit} · {outcome}"
+      },
+      "empty": {
+        "title": "No recommendations yet",
+        "desc": "Create your first AI analysis to start a track record",
+        "cta": "Create first analysis"
+      },
+      "stat": {
+        "winRate": "Win Rate",
+        "winLoss": "{wins} win / {losses} loss",
+        "totalPnl": "Total PnL",
+        "onCapital": "{pct}% on ${capital} capital",
+        "bestTrade": "Best Trade",
+        "bestTradeSub": "biggest winning recommendation",
+        "open": "Open",
+        "openSub": "recommendations not yet closed"
+      },
+      "equity": {
+        "title": "Equity curve if following AI",
+        "sub": "Initial capital ${start} → now ${now}",
+        "badge": "{pct}% over {total} recs"
+      },
+      "tableTitle": "AI recommendation history",
+      "count": "{total} recommendations",
+      "loadFailed": "Could not load history"
+    },
+    "modal": {
+      "title": "Analysis detail",
+      "loadError": "Could not load detail",
+      "noData": "No data",
+      "newAnalysis": "New analysis",
+      "close": "Close",
+      "spot": "— (spot)",
+      "ov": {
+        "direction": "Side",
+        "confidence": "Confidence",
+        "status": "Status",
+        "capital": "Capital in",
+        "leverage": "Leverage",
+        "pnl": "PnL"
+      },
+      "sec": {
+        "plan": "Trade plan",
+        "ai": "AI analysis",
+        "reasons": "Key reasons",
+        "keyPoints": "Key takeaways",
+        "config": "Analysis config",
+        "tech": "Technical"
+      },
+      "field": {
+        "entry": "Entry",
+        "stopLoss": "Stop Loss (SL)",
+        "takeProfit": "Take Profit (TP)",
+        "size": "Size",
+        "exit": "Exit",
+        "liquidation": "Liquidation",
+        "riskReward": "Risk / Reward"
+      },
+      "cfg": {
+        "horizon": "Timeframe",
+        "risk": "Risk appetite",
+        "experience": "Experience",
+        "goal": "Goal",
+        "style": "Style",
+        "reportDepth": "Report depth",
+        "tone": "Tone",
+        "stopLossKind": "SL type",
+        "marketBias": "Market bias",
+        "entryStrategy": "Entry strategy",
+        "maxRisk": "Max risk",
+        "profitTarget": "Profit target"
+      },
+      "tech": {
+        "model": "AI model",
+        "elapsed": "Report generation time",
+        "createdAt": "Created at",
+        "closedAt": "Closed at"
+      }
+    },
+    "form": {
+      "title": "Choose a coin to see the analysis",
+      "subtitle": "Combine technical data, news, and your wallet into one report",
+      "headerSubtitle": "Coin analysis assistant — insights from TA + news",
+      "btn": {
+        "analyze": "Analyze now",
+        "save": "Save report",
+        "saving": "Saving...",
+        "savedViewHistory": "Saved — View history",
+        "analyzeAnother": "Analyze another coin"
+      },
+      "aria": {
+        "exit": "Exit",
+        "exitReport": "Exit report"
+      },
+      "direction": {
+        "up": "UP",
+        "down": "DOWN"
+      },
+      "signal": {
+        "positive": "POSITIVE",
+        "neutral": "NEUTRAL",
+        "negative": "NEGATIVE"
+      },
+      "toast": {
+        "savedTitle": "Saved to history · {symbol}",
+        "likelihood": "Likely {dir} {confidence}%",
+        "entry": "Entry ${price}",
+        "leverageSuffix": "leverage {x}x",
+        "saveFailed": "Failed to save report"
+      },
+      "coin": {
+        "label": "Choose coin",
+        "loading": "loading...",
+        "count": "({count} coins)",
+        "searchPlaceholder": "Search coin by symbol or name...",
+        "colCoin": "Coin",
+        "colPrice": "Price",
+        "col24h": "24h",
+        "notFound": "No coin found"
+      },
+      "amount": {
+        "label": "Investment amount"
+      },
+      "section": {
+        "risk": "Risk appetite",
+        "horizon": "Time horizon",
+        "advanced": "Advanced settings",
+        "experience": "Trader level",
+        "experienceHint": "— AI adjusts its language",
+        "goal": "Your goal",
+        "style": "Trading style",
+        "tone": "Report tone",
+        "stopLoss": "Stop Loss type",
+        "leverage": "Intended leverage",
+        "leverageHint": "— AI adjusts liquidation risk warnings",
+        "marketBias": "Market view",
+        "marketBiasHint": "— yours",
+        "entry": "Entry strategy",
+        "compare": "Compare with another coin",
+        "compareHint": "(optional — AI adds a comparison section)",
+        "maxRisk": "Max % capital at risk / trade",
+        "profitTarget": "Target profit %",
+        "infoTypes": "What should the AI analyze for you?",
+        "infoTypesCount": "— {count}/6 types",
+        "depth": "Report detail level",
+        "interestTags": "Interest tags",
+        "interestTagsHint": "— AI prioritizes mentioning",
+        "excludeTags": "Exclude tags",
+        "excludeTagsHint": "— AI avoids mentioning",
+        "customRequest": "Additional request",
+        "optional": "(optional)"
+      },
+      "risk": {
+        "low": {
+          "label": "Cautious",
+          "note": "Prioritize capital"
+        },
+        "mid": {
+          "label": "Balanced",
+          "note": "Balanced risk/reward"
+        },
+        "high": {
+          "label": "Aggressive",
+          "note": "Tolerate high volatility"
+        },
+        "degen": {
+          "label": "Degen",
+          "note": "Maximize profit"
+        }
+      },
+      "leverage": {
+        "spot": {
+          "note": "No leverage"
+        },
+        "x2": {
+          "note": "Low"
+        },
+        "x3": {
+          "note": "Moderate"
+        },
+        "x5": {
+          "note": "High"
+        },
+        "x10": {
+          "note": "Very high"
+        },
+        "x20": {
+          "note": "Extreme"
+        }
+      },
+      "marketBias": {
+        "bull": {
+          "label": "Bullish",
+          "desc": "I expect an uptrend"
+        },
+        "bear": {
+          "label": "Bearish",
+          "desc": "I expect a downtrend"
+        },
+        "crab": {
+          "label": "Sideways",
+          "desc": "Sideways/accumulation"
+        },
+        "unsure": {
+          "label": "Unsure",
+          "desc": "Let the AI decide"
+        }
+      },
+      "entry": {
+        "market": {
+          "desc": "Enter now at current price"
+        },
+        "limit": {
+          "desc": "Wait for price to reach a good zone"
+        },
+        "scale": {
+          "desc": "Split into multiple entries / DCA"
+        },
+        "breakout": {
+          "desc": "Wait for resistance breakout"
+        }
+      },
+      "experience": {
+        "beginner": {
+          "label": "New",
+          "desc": "First time trading"
+        },
+        "intermediate": {
+          "label": "Intermediate",
+          "desc": "Knows basic TA"
+        },
+        "pro": {
+          "label": "Pro",
+          "desc": "Deep indicator knowledge"
+        }
+      },
+      "tone": {
+        "professional": {
+          "label": "Professional",
+          "desc": "Formal, straight to the numbers"
+        },
+        "friendly": {
+          "label": "Friendly",
+          "desc": "Casual, addresses you directly"
+        },
+        "strict": {
+          "label": "Strict",
+          "desc": "Emphasizes risk"
+        }
+      },
+      "stopLoss": {
+        "hard": {
+          "label": "Hard",
+          "desc": "Real order placed on the exchange"
+        },
+        "trailing": {
+          "label": "Trailing",
+          "desc": "SL follows price as it gains"
+        },
+        "mental": {
+          "label": "Mental",
+          "desc": "Self-tracked, no order placed"
+        }
+      },
+      "horizon": {
+        "scalp": {
+          "note": "A few hours"
+        },
+        "day": {
+          "note": "1-3 days"
+        },
+        "swing": {
+          "note": "1-2 weeks"
+        },
+        "position": {
+          "note": "1-3 months"
+        }
+      },
+      "goal": {
+        "learn": {
+          "label": "Learn crypto",
+          "desc": "AI weaves in knowledge"
+        },
+        "profit": {
+          "label": "Short-term trading",
+          "desc": "Focus on momentum + timing"
+        },
+        "invest": {
+          "label": "Long-term investing",
+          "desc": "Focus on trend + fundamentals"
+        },
+        "preserve": {
+          "label": "Preserve capital",
+          "desc": "Emphasize risk + stop-loss"
+        }
+      },
+      "style": {
+        "momentum": {
+          "label": "Catch momentum",
+          "desc": "Enter when price is running strong, ride the move"
+        },
+        "reversal": {
+          "label": "Buy the dip",
+          "desc": "Enter after a deep drop, expecting a bounce"
+        },
+        "trend": {
+          "label": "Trend follow",
+          "desc": "Follow the long trend, don't try to call tops/bottoms"
+        },
+        "dca": {
+          "label": "DCA",
+          "desc": "Buy regularly over time, ignore timing"
+        }
+      },
+      "depth": {
+        "short": {
+          "label": "Summary",
+          "desc": "1 min read"
+        },
+        "medium": {
+          "label": "Moderate",
+          "desc": "3 min read"
+        },
+        "long": {
+          "label": "Full",
+          "desc": "5+ min read"
+        }
+      },
+      "infoType": {
+        "technical": "Technical analysis",
+        "fundamental": "Project info",
+        "news": "7-day news",
+        "sentiment": "Community sentiment",
+        "onchain": "On-chain (whale)",
+        "events": "Upcoming events"
+      },
+      "compare": {
+        "placeholder": "Click to choose a coin to compare...",
+        "searchPlaceholder": "Search coin..."
+      },
+      "tags": {
+        "interestPlaceholder": "DeFi, Layer2 + Enter...",
+        "excludePlaceholder": "NFT, memecoin + Enter...",
+        "hint": "Up to 10 tags, press Enter to add"
+      },
+      "customRequest": {
+        "placeholder": "E.g. 'Focus on on-chain', 'Compare with ETH', 'Explain risk more', 'Give concrete examples'...",
+        "note": "The AI will read and reference this request in the report"
+      },
+      "summary": {
+        "title": "Configuration summary",
+        "tone": "tone",
+        "entry": "entry",
+        "infoCount": "{count}/6 types",
+        "interestTags": "{count} interest tags",
+        "excludeTags": "{count} exclude tags",
+        "hasCustomRequest": "has additional request"
+      },
+      "loading": {
+        "progress": "Progress",
+        "s1": {
+          "title": "Reading coin data",
+          "sub": "Real-time price from catalog (30s sync)",
+          "short": "Coin data"
+        },
+        "s2": {
+          "title": "Fetching price history",
+          "sub": "200 candles from Binance API",
+          "short": "Price history"
+        },
+        "s3": {
+          "title": "Computing indicators",
+          "sub": "EMA, RSI, MACD, Bollinger via standard lib",
+          "short": "Indicators"
+        },
+        "s4": {
+          "title": "Reading your wallet",
+          "sub": "Snapshot of holdings + cash balance",
+          "short": "Wallet"
+        },
+        "s5": {
+          "title": "Reading 7-day news",
+          "sub": "Query news table + infer sentiment",
+          "short": "News"
+        },
+        "s6": {
+          "title": "AI is writing the report",
+          "sub": "Groq Llama-4 + structured JSON output",
+          "short": "AI report"
+        }
+      },
+      "report": {
+        "badge": "AI REPORT",
+        "fromCache": "from cache",
+        "probabilityLabel": "AI probability estimate",
+        "likelihood": "Likely {dir}",
+        "within": "within {tf}",
+        "range": "Range:",
+        "rangeTo": "to",
+        "basis": "Basis:",
+        "currentPrice": "CURRENT PRICE",
+        "marketCap": "24h · Market cap ${cap}B",
+        "taTitle": "TECHNICAL ANALYSIS",
+        "rsiOverbought": "Overbought",
+        "rsiOversold": "Oversold",
+        "rsiBalanced": "Balanced",
+        "bbVolatilityBand": "volatility band",
+        "newsTitle": "RELATED NEWS",
+        "newsMeta": "7 days · {count} items",
+        "aiTitle": "AI ASSESSMENT",
+        "keyPoints": "Key points",
+        "planTitle": "SUGGESTED SCENARIO",
+        "leverageBadge": "Leverage {x}x",
+        "entryZone": "Entry zone",
+        "suggestedSize": "Suggested size",
+        "margin": "(margin ${amount} × {x}x)",
+        "stopLoss": "Stop loss",
+        "risk": "Risk: -${value}",
+        "takeProfit": "Take profit",
+        "reward": "Profit: +${value}",
+        "liquidationPrice": "Liquidation price (~{x}x)",
+        "liquidationHint": "Place your stop loss BEFORE this level to avoid liquidation",
+        "rrRatio": "Reward / Risk ratio",
+        "disclaimerStrong": "Probabilistic analysis for educational purposes",
+        "disclaimerRest": ", not investment advice. Crypto is highly volatile — you may lose all your capital. Do your own research and only invest what you can afford to lose."
+      },
+      "langSwitch": "Switch language",
+      "error": {
+        "analyze": "Could not analyze right now",
+        "save": "Could not save the report"
+      }
+    }
+  },
+  "community": {
+    "activeMember": "Active member",
+    "nav": {
+      "title": "Community",
+      "searchPlaceholder": "Search coins, traders...",
+      "write": "Write post"
+    },
+    "userStats": {
+      "posts": "Posts",
+      "followers": "Following",
+      "accuracy": "Accuracy"
+    },
+    "sentimentMeter": {
+      "title": "Crowd sentiment",
+      "greed": "Greed",
+      "fear": "Fear",
+      "euphoria": "Euphoria",
+      "stats": "{count} posts · last 1h"
+    },
+    "leaderboard": {
+      "title": "Weekly leaderboard",
+      "trades": "{count} trades"
+    },
+    "post": {
+      "placeholder": "Share your market view, trade signal... ($BTC, $ETH)",
+      "selectCoin": "Select coin",
+      "noResults": "No results found",
+      "viewpoint": "Sentiment",
+      "submit": "Post",
+      "delete": "Delete post"
+    },
+    "toolbar": {
+      "addImage": "Add image",
+      "chart": "Chart",
+      "emoji": "Emoji",
+      "hashtag": "Hashtag"
+    },
+    "sentiment": {
+      "bull": "Bullish",
+      "bear": "Bearish",
+      "neutral": "Neutral"
+    },
+    "tabs": {
+      "forYou": "For you",
+      "following": "Following",
+      "signals": "Trade signals"
+    },
+    "feed": {
+      "emptyTitle": "No posts yet",
+      "emptyDescription": "Be the first to share your analysis!",
+      "loadMore": "Load more"
+    },
+    "trending": {
+      "title": "Trending markets",
+      "all": "All",
+      "empty": "No data yet",
+      "colName": "Name",
+      "colPrice": "Last price",
+      "colChange": "Change",
+      "postCount": "{count} posts"
+    },
+    "activity": {
+      "title": "Recent activity",
+      "openedLongBtc": "just opened a Long BTC position",
+      "commentedEth": "commented on ETH analysis",
+      "winStreak": "hit a 10-trade win streak"
+    },
+    "announcements": {
+      "title": "Macro calendar & alerts",
+      "warningBadge": "Alert",
+      "eventBadge": "Event",
+      "fomc": "FOMC meeting at 2:00 AM — high volatility",
+      "contest": "March Trading Contest — $5,000 USDT"
+    },
+    "time": {
+      "minutesAgo": "{n} minutes ago",
+      "hoursAgo": "{n}h ago"
+    },
+    "deleteModal": {
+      "title": "Delete post",
+      "description": "This action cannot be undone. Are you sure you want to delete?",
+      "confirm": "Delete",
+      "cancel": "Cancel"
+    },
+    "toast": {
+      "contentRequired": "Enter content and select a sentiment!",
+      "posted": "Posted!",
+      "postError": "Failed to post",
+      "deleted": "Deleted",
+      "deletedDesc": "You deleted the post",
+      "deleteFailed": "Delete failed",
+      "deleteFailedDesc": "Something went wrong, please try again",
+      "linkCopied": "Link copied!",
+      "shareError": "Share failed"
+    }
+  },
+  "orders": {
+    "header": {
+      "change24h": "24h Change",
+      "high24h": "24h High",
+      "low24h": "24h Low",
+      "volume": "Volume",
+      "volumeUsdt": "Volume USDT",
+      "coin": "Coin"
+    },
+    "tabs": {
+      "chart": "Chart",
+      "info": "Info",
+      "analysis": "Analysis"
+    },
+    "form": {
+      "buy": "Buy",
+      "sell": "Sell",
+      "available": "Available",
+      "price": "Price",
+      "quantity": "Quantity",
+      "max": "MAX",
+      "totalWithFee": "Total (incl. fee)",
+      "total": "Total",
+      "totalPlaceholder": "Minimum 5 USDT",
+      "fee": "Fee"
+    },
+    "book": {
+      "title": "Order Book",
+      "price": "Price (USDT)",
+      "amount": "Amount ()",
+      "total": "Total",
+      "buyShort": "B",
+      "sellShort": "S"
+    },
+    "trades": {
+      "title": "Recent Trades",
+      "mine": "Mine",
+      "price": "Price",
+      "amount": "Amt",
+      "time": "Time",
+      "empty": "No matched trades yet"
+    },
+    "pairs": {
+      "searchPlaceholder": "Search trading pair...",
+      "pair": "Pair",
+      "price": "Price",
+      "change24h": "24h",
+      "empty": "No trading pairs"
+    },
+    "coinSelector": {
+      "searchPlaceholder": "Search cryptocurrency...",
+      "name": "Name",
+      "lastPrice": "Last price",
+      "change": "Change",
+      "notFound": "No results found"
+    },
+    "history": {
+      "title": "Orders",
+      "pair": "Pair",
+      "type": "Type",
+      "side": "Side",
+      "orderPrice": "Order Price",
+      "quantity": "Quantity",
+      "filled": "Filled",
+      "total": "Total",
+      "status": "Status",
+      "actions": "Actions",
+      "buy": "Buy",
+      "sell": "Sell",
+      "cancel": "Cancel",
+      "loading": "Loading...",
+      "empty": "No orders yet",
+      "totalLabel": "Total:",
+      "ordersUnit": "orders",
+      "prev": "‹ Prev",
+      "next": "Next ›"
+    },
+    "tabsHistory": {
+      "open": "Open",
+      "all": "All",
+      "filled": "Filled",
+      "canceled": "Canceled"
+    },
+    "status": {
+      "PENDING": "Pending",
+      "PARTIALLY_FILLED": "Partially Filled",
+      "FILLED": "Filled",
+      "CANCELED": "Canceled"
+    },
+    "statusBar": {
+      "pending": "Pending",
+      "filled": "Filled",
+      "canceled": "Canceled",
+      "buy": "Buy",
+      "sell": "Sell",
+      "topMovers": "Top movers:"
+    },
+    "toast": {
+      "canceled": "Order canceled",
+      "canceledDesc": "Order #{id} was canceled successfully",
+      "cancelFailed": "Cancel order failed",
+      "tryAgain": "Please try again",
+      "placeFailed": "{side} order failed",
+      "invalidQty": "Please enter a valid quantity",
+      "invalidPrice": "Please enter a valid price",
+      "placedTitle": "{side} order placed",
+      "placedDesc": "{qty} {coin} · ${price} · ~${total} USDT",
+      "filledTitle": "{side} order filled!",
+      "filledDesc": "{qty} {coin} {'@'}${price} · ~${total} USDT",
+      "notifyFilledTitle": "{side} order filled!",
+      "notifyFilledDesc": "{qty} {coin} {'@'}${price}",
+      "partialTitle": "Partially filled",
+      "partialDesc": "{filled} / {qty} {coin} {'@'}${price}"
+    },
+    "side": {
+      "buy": "BUY",
+      "sell": "SELL"
+    },
+    "error": {
+      "loadOrders": "Failed to load orders",
+      "loadBook": "Failed to load order book"
+    }
+  },
+  "chat": {
+    "greetingMorning": "Good morning",
+    "greetingAfternoon": "Good afternoon",
+    "greetingEvening": "Good evening",
+    "greetingNamed": "{greeting}, {name}",
+    "promptPlaceholder": "Ask anything about crypto...",
+    "messagePlaceholder": "Type a message...",
+    "thinking": "Thinking...",
+    "newChat": "New chat",
+    "backToDashboard": "Back to Dashboard",
+    "search": "Search",
+    "searchPlaceholder": "Search conversations...",
+    "untitled": "Untitled",
+    "newChatAria": "New chat",
+    "chatActionsAria": "Chat actions",
+    "quick": {
+      "btc": "Should I buy more BTC?",
+      "dca": "Explain what DCA is?",
+      "altcoinRisk": "Risks of investing in altcoins?",
+      "weeklyTrend": "Market trend this week"
+    },
+    "actions": {
+      "rename": "Rename",
+      "delete": "Delete"
+    },
+    "copy": "Copy",
+    "renameModal": {
+      "title": "Rename conversation",
+      "description": "Enter a new title for this conversation.",
+      "placeholder": "Title...",
+      "save": "Save",
+      "cancel": "Cancel"
+    },
+    "deleteModal": {
+      "title": "Delete conversation",
+      "description": "Are you sure you want to delete? This action cannot be undone.",
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    },
+    "toast": {
+      "createError": "Could not create the conversation, please try again!",
+      "renamed": "Renamed",
+      "renameError": "Could not rename. Please try again!",
+      "deleted": "Deleted",
+      "deletedDesc": "The conversation has been deleted",
+      "deleteError": "Could not delete. Please try again!"
+    },
+    "models": {
+      "llama70bDesc": "Most powerful, suited for deep analysis",
+      "llama8bDesc": "Lightweight, faster responses",
+      "llama4ScoutDesc": "Newest, large context"
+    }
+  },
+  "news": {
+    "navbar": {
+      "title": "News",
+      "searchPlaceholder": "Search news..."
+    },
+    "categories": {
+      "all": "All",
+      "macro": "Macro",
+      "bitcoin": "Bitcoin",
+      "altcoin": "Altcoin",
+      "defi": "DeFi",
+      "nft": "NFT",
+      "regulation": "Regulation",
+      "tech": "Tech"
+    },
+    "latest": {
+      "title": "Latest",
+      "live": "Live",
+      "today": "Today"
+    },
+    "featured": {
+      "title": "Featured Stories",
+      "viewAll": "View all",
+      "updatedAt": "Updated {time}"
+    },
+    "divider": {
+      "recent": "Recent"
+    },
+    "grid": {
+      "allNews": "All News",
+      "articleCount": "{count} articles"
+    }
+  }
+}
